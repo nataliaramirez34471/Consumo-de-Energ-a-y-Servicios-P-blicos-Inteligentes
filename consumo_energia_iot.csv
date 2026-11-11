@@ -1,0 +1,1013 @@
+ID_Medidor,Municipio,Estrato,Consumo_kWh,Voltaje_Promedio,Horas_Pico_kWh,Tipo_Medidor,Estado_Pago
+MED-5001,Villamaría,Estrato 3,130.5,118.0,32.74,Monofásico Digital,Al Día
+MED-5002,Palestina,Estrato 2,175.0,120.5,19.97,Bifásico Inteligente,Al Día
+MED-5003,Palestina,Estrato 1,220.0,118.0,11.71,Bifásico Inteligente,Mora
+MED-5004,Neira,Estrato 4,130.5,128.0,64.26,Monofásico Digital,Al Día
+MED-5005,Neira,Estrato 3,175.0,120.5,14.13,Monofásico Digital,Mora
+MED-5006,Chinchiná,Estrato 4,175.0,120.5,50.49,Bifásico Inteligente,Financiado
+MED-5007,Neira,Estrato 2,175.0,118.0,64.04,Trifásico Industrial,Al Día
+MED-5008,Palestina,Estrato 1,220.0,120.5,51.93,Bifásico Inteligente,Mora
+MED-5009,Villamaría,Estrato 2,130.5,122.0,45.63,Bifásico Inteligente,Mora
+MED-5010,Neira,Estrato 3,130.5,,37.42,Bifásico Inteligente,Al Día
+MED-5011,Manizales,Comercial,175.0,122.0,31.54,Bifásico Inteligente,Al Día
+MED-5012,Palestina,Estrato 3,220.0,125.5,47.27,Trifásico Industrial,Al Día
+MED-5013,Neira,Comercial,95.0,112.5,6.71,Monofásico Digital,Al Día
+MED-5014,Neira,Estrato 4,290.5,112.5,69.74,Bifásico Inteligente,Al Día
+MED-5015,Chinchiná,Estrato 3,130.5,118.0,5.48,Bifásico Inteligente,Al Día
+MED-5016,Chinchiná,Estrato 3,95.0,118.0,49.84,Monofásico Digital,Al Día
+MED-5017,Palestina,Estrato 1,290.5,118.0,12.81,Trifásico Industrial,Al Día
+MED-5018,Palestina,Estrato 2,,120.5,54.42,Bifásico Inteligente,Mora
+MED-5019,Villamaría,Estrato 3,95.0,118.0,78.91,Monofásico Digital,Al Día
+MED-5020,Villamaría,Estrato 2,95.0,122.0,29.76,Monofásico Digital,Al Día
+MED-5021,Neira,Comercial,130.5,125.5,12.1,Bifásico Inteligente,Financiado
+MED-5022,Manizales,Estrato 1,220.0,112.5,67.36,Bifásico Inteligente,Financiado
+MED-5023,Chinchiná,Estrato 3,130.5,122.0,37.61,Monofásico Digital,Al Día
+MED-5024,Neira,Estrato 3,95.0,120.5,37.71,Monofásico Digital,Al Día
+MED-5025,Chinchiná,Estrato 4,130.5,120.5,14.04,Bifásico Inteligente,Al Día
+MED-5026,Palestina,Estrato 2,220.0,112.5,64.71,Bifásico Inteligente,Al Día
+MED-5027,Neira,Comercial,130.5,118.0,71.85,Bifásico Inteligente,Al Día
+MED-5028,Chinchiná,Estrato 3,220.0,122.0,79.57,Bifásico Inteligente,Al Día
+MED-5029,Neira,Estrato 1,95.0,118.0,30.85,Monofásico Digital,Al Día
+MED-5030,Manizales,Estrato 1,360.0,122.0,74.21,Monofásico Digital,Financiado
+MED-5031,Neira,Estrato 2,290.5,125.5,6.57,Bifásico Inteligente,Financiado
+MED-5032,Neira,Estrato 2,,112.5,69.9,Monofásico Digital,Mora
+MED-5033,Neira,Estrato 1,130.5,118.0,62.57,Monofásico Digital,Al Día
+MED-5034,Neira,Estrato 1,95.0,112.5,63.61,Monofásico Digital,Al Día
+MED-5035,Chinchiná,Estrato 4,175.0,120.5,19.0,Bifásico Inteligente,Al Día
+MED-5036,Palestina,Estrato 2,130.5,122.0,58.91,Monofásico Digital,Al Día
+MED-5037,Villamaría,Estrato 3,95.0,120.5,14.28,Bifásico Inteligente,Mora
+MED-5038,Villamaría,Estrato 2,175.0,,75.11,Bifásico Inteligente,Al Día
+MED-5039,Manizales,Estrato 2,220.0,118.0,75.04,Bifásico Inteligente,Al Día
+MED-5040,Palestina,Estrato 3,175.0,120.5,62.5,Bifásico Inteligente,Mora
+MED-5041,Manizales,Estrato 2,290.5,122.0,66.32,Trifásico Industrial,Al Día
+MED-5042,Villamaría,Estrato 3,220.0,120.5,48.26,Trifásico Industrial,Al Día
+MED-5043,Chinchiná,Estrato 1,480.0,118.0,73.59,Bifásico Inteligente,Al Día
+MED-5044,Villamaría,Estrato 3,220.0,128.0,56.68,Bifásico Inteligente,Al Día
+MED-5045,Chinchiná,Estrato 4,290.5,125.5,37.42,Monofásico Digital,Al Día
+MED-5046,Villamaría,Estrato 3,220.0,118.0,82.19,Bifásico Inteligente,Al Día
+MED-5047,Palestina,Comercial,95.0,118.0,45.86,Bifásico Inteligente,Al Día
+MED-5048,Manizales,Estrato 1,130.5,120.5,74.08,Bifásico Inteligente,Al Día
+MED-5049,Villamaría,Estrato 3,130.5,120.5,13.85,Trifásico Industrial,Al Día
+MED-5050,Neira,Estrato 1,130.5,122.0,78.27,Monofásico Digital,Financiado
+MED-5051,Villamaría,Comercial,290.5,112.5,30.41,Trifásico Industrial,Al Día
+MED-5052,Neira,Comercial,290.5,120.5,18.54,Trifásico Industrial,Al Día
+MED-5053,Chinchiná,Estrato 1,175.0,118.0,41.01,Trifásico Industrial,Al Día
+MED-5054,Neira,Estrato 2,130.5,125.5,67.76,Bifásico Inteligente,Al Día
+MED-5055,Chinchiná,Estrato 3,175.0,118.0,52.56,Bifásico Inteligente,Al Día
+MED-5056,Manizales,Estrato 2,95.0,122.0,29.74,Monofásico Digital,Al Día
+MED-5057,Palestina,Estrato 1,175.0,122.0,16.67,Trifásico Industrial,Mora
+MED-5058,Chinchiná,Estrato 2,130.5,120.5,39.13,Monofásico Digital,Al Día
+MED-5059,Villamaría,Comercial,290.5,122.0,75.92,Trifásico Industrial,Mora
+MED-5060,Villamaría,Comercial,290.5,120.5,50.58,Trifásico Industrial,Al Día
+MED-5061,Chinchiná,Comercial,95.0,118.0,67.97,Bifásico Inteligente,Al Día
+MED-5062,Palestina,Estrato 2,290.5,128.0,22.31,Bifásico Inteligente,Al Día
+MED-5063,Chinchiná,Estrato 4,220.0,112.5,8.61,Bifásico Inteligente,Al Día
+MED-5064,Manizales,Estrato 4,95.0,112.5,32.25,Monofásico Digital,Al Día
+MED-5065,Neira,Estrato 2,220.0,112.5,80.81,Monofásico Digital,Al Día
+MED-5066,Chinchiná,Comercial,220.0,118.0,37.03,Bifásico Inteligente,Financiado
+MED-5067,Villamaría,Estrato 4,360.0,120.5,82.04,Bifásico Inteligente,Al Día
+MED-5068,Palestina,Comercial,220.0,122.0,41.85,Monofásico Digital,Al Día
+MED-5069,Manizales,Estrato 2,175.0,125.5,49.5,Monofásico Digital,Al Día
+MED-5070,Manizales,Estrato 4,175.0,128.0,63.79,Monofásico Digital,Al Día
+MED-5071,Chinchiná,Estrato 4,175.0,120.5,37.99,Bifásico Inteligente,Al Día
+MED-5072,Palestina,Estrato 2,175.0,,52.99,Trifásico Industrial,Al Día
+MED-5073,Chinchiná,Comercial,175.0,118.0,34.98,Monofásico Digital,Al Día
+MED-5074,Chinchiná,Comercial,290.5,120.5,82.09,Monofásico Digital,Al Día
+MED-5075,Palestina,Estrato 2,95.0,120.5,9.3,Bifásico Inteligente,Mora
+MED-5076,Chinchiná,Estrato 1,95.0,118.0,67.81,Monofásico Digital,Al Día
+MED-5077,Neira,Estrato 3,480.0,120.5,50.66,Bifásico Inteligente,Al Día
+MED-5078,Manizales,Estrato 3,290.5,,79.87,Monofásico Digital,Al Día
+MED-5079,Palestina,Estrato 3,130.5,120.5,63.73,Bifásico Inteligente,Al Día
+MED-5080,Neira,Estrato 3,360.0,120.5,16.92,Trifásico Industrial,Al Día
+MED-5081,Neira,Comercial,130.5,122.0,70.16,Monofásico Digital,Al Día
+MED-5082,Palestina,Estrato 3,175.0,118.0,80.93,Trifásico Industrial,Al Día
+MED-5083,Palestina,Comercial,290.5,120.5,19.83,Monofásico Digital,Al Día
+MED-5084,Palestina,Estrato 3,175.0,118.0,34.15,Bifásico Inteligente,Al Día
+MED-5085,Manizales,Comercial,220.0,118.0,38.27,Monofásico Digital,Mora
+MED-5086,Palestina,Estrato 1,130.5,125.5,64.18,Monofásico Digital,Mora
+MED-5087,Villamaría,Comercial,130.5,122.0,21.92,Monofásico Digital,Al Día
+MED-5088,Villamaría,Estrato 2,220.0,118.0,34.78,Trifásico Industrial,Al Día
+MED-5089,Manizales,Estrato 3,220.0,122.0,62.85,Monofásico Digital,Al Día
+MED-5090,Villamaría,Estrato 2,290.5,120.5,39.57,Bifásico Inteligente,Al Día
+MED-5091,Palestina,Estrato 3,290.5,122.0,14.73,Trifásico Industrial,Al Día
+MED-5092,Neira,Estrato 3,220.0,120.5,22.41,Trifásico Industrial,Financiado
+MED-5093,Villamaría,Estrato 1,130.5,120.5,60.68,Bifásico Inteligente,Al Día
+MED-5094,Villamaría,Comercial,480.0,125.5,74.56,Monofásico Digital,Al Día
+MED-5095,Neira,Comercial,220.0,120.5,75.49,Monofásico Digital,Al Día
+MED-5096,Chinchiná,Comercial,130.5,128.0,47.36,Monofásico Digital,Mora
+MED-5097,Palestina,Estrato 3,95.0,112.5,39.43,Bifásico Inteligente,Al Día
+MED-5098,Neira,Estrato 4,175.0,120.5,56.87,Monofásico Digital,Mora
+MED-5099,Palestina,Estrato 1,130.5,118.0,17.68,Monofásico Digital,Al Día
+MED-5100,Chinchiná,Estrato 4,480.0,120.5,61.04,Monofásico Digital,Al Día
+MED-5101,Manizales,Estrato 3,175.0,120.5,80.96,Monofásico Digital,Al Día
+MED-5102,Manizales,Estrato 4,175.0,120.5,15.16,Bifásico Inteligente,Al Día
+MED-5103,Palestina,Estrato 4,130.5,122.0,44.66,Monofásico Digital,Al Día
+MED-5104,Manizales,Estrato 1,95.0,120.5,79.97,Monofásico Digital,Al Día
+MED-5105,Palestina,Estrato 2,95.0,122.0,25.39,Bifásico Inteligente,Al Día
+MED-5106,Manizales,Estrato 4,95.0,120.5,7.52,Trifásico Industrial,Mora
+MED-5107,Villamaría,Estrato 2,290.5,120.5,45.22,Bifásico Inteligente,Al Día
+MED-5108,Palestina,Estrato 1,175.0,,50.41,Monofásico Digital,Al Día
+MED-5109,Manizales,Comercial,130.5,118.0,53.9,Monofásico Digital,Al Día
+MED-5110,Chinchiná,Estrato 2,220.0,118.0,6.72,Trifásico Industrial,Financiado
+MED-5111,Palestina,Estrato 2,175.0,122.0,28.32,Monofásico Digital,Al Día
+MED-5112,Manizales,Estrato 3,220.0,128.0,45.48,Monofásico Digital,Financiado
+MED-5113,Villamaría,Estrato 2,175.0,120.5,09.09,Monofásico Digital,Al Día
+MED-5114,Palestina,Estrato 1,220.0,,47.17,Monofásico Digital,Al Día
+MED-5115,Palestina,Estrato 3,220.0,122.0,80.36,Bifásico Inteligente,Financiado
+MED-5116,Villamaría,Comercial,175.0,120.5,74.32,Monofásico Digital,Mora
+MED-5117,Neira,Estrato 3,175.0,,81.61,Bifásico Inteligente,Al Día
+MED-5118,Manizales,Estrato 4,175.0,125.5,66.9,Trifásico Industrial,Al Día
+MED-5119,Neira,Estrato 1,220.0,120.5,27.3,Trifásico Industrial,Mora
+MED-5120,Manizales,Estrato 3,480.0,122.0,61.02,Trifásico Industrial,Financiado
+MED-5121,Chinchiná,Estrato 1,95.0,120.5,27.95,Bifásico Inteligente,Mora
+MED-5122,Chinchiná,Estrato 3,175.0,120.5,50.87,Bifásico Inteligente,Mora
+MED-5123,Villamaría,Estrato 4,175.0,118.0,30.1,Bifásico Inteligente,Al Día
+MED-5124,Palestina,Estrato 1,220.0,122.0,53.27,Bifásico Inteligente,Al Día
+MED-5125,Chinchiná,Estrato 1,220.0,118.0,7.96,Monofásico Digital,Al Día
+MED-5126,Palestina,Estrato 4,175.0,,80.25,Monofásico Digital,Al Día
+MED-5127,Chinchiná,Estrato 3,220.0,118.0,55.44,Monofásico Digital,Financiado
+MED-5128,Chinchiná,Estrato 2,220.0,122.0,10.43,Trifásico Industrial,Al Día
+MED-5129,Neira,Comercial,220.0,125.5,28.07,Monofásico Digital,Al Día
+MED-5130,Chinchiná,Comercial,95.0,120.5,44.48,Monofásico Digital,Mora
+MED-5131,Chinchiná,Estrato 3,175.0,120.5,41.45,Monofásico Digital,Al Día
+MED-5132,Villamaría,Estrato 3,175.0,120.5,55.62,Bifásico Inteligente,Al Día
+MED-5133,Neira,Estrato 1,220.0,125.5,78.4,Monofásico Digital,Al Día
+MED-5134,Neira,Estrato 2,220.0,120.5,72.25,Bifásico Inteligente,Al Día
+MED-5135,Chinchiná,Estrato 4,175.0,120.5,76.65,Monofásico Digital,Financiado
+MED-5136,Neira,Estrato 2,175.0,,80.69,Monofásico Digital,Al Día
+MED-5137,Chinchiná,Estrato 3,480.0,118.0,55.45,Monofásico Digital,Al Día
+MED-5138,Neira,Estrato 3,175.0,,66.87,Monofásico Digital,Al Día
+MED-5139,Chinchiná,Comercial,,120.5,9.33,Bifásico Inteligente,Al Día
+MED-5140,Villamaría,Estrato 4,95.0,,36.53,Monofásico Digital,Al Día
+MED-5141,Palestina,Estrato 1,175.0,125.5,39.91,Bifásico Inteligente,Mora
+MED-5142,Manizales,Comercial,130.5,118.0,69.56,Bifásico Inteligente,Al Día
+MED-5143,Manizales,Estrato 3,220.0,122.0,76.8,Monofásico Digital,Al Día
+MED-5144,Neira,Comercial,290.5,112.5,45.38,Monofásico Digital,Al Día
+MED-5145,Manizales,Estrato 2,220.0,120.5,14.68,Monofásico Digital,Al Día
+MED-5146,Manizales,Estrato 1,130.5,120.5,33.55,Monofásico Digital,Al Día
+MED-5147,Neira,Estrato 4,220.0,120.5,47.02,Bifásico Inteligente,Al Día
+MED-5148,Manizales,Comercial,220.0,120.5,52.54,Monofásico Digital,Al Día
+MED-5149,Palestina,Estrato 1,95.0,120.5,47.89,Trifásico Industrial,Financiado
+MED-5150,Chinchiná,Estrato 2,290.5,112.5,7.38,Monofásico Digital,Al Día
+MED-5151,Neira,Estrato 2,130.5,112.5,31.42,Trifásico Industrial,Financiado
+MED-5152,Chinchiná,Estrato 2,175.0,118.0,51.99,Trifásico Industrial,Financiado
+MED-5153,Villamaría,Estrato 3,95.0,112.5,75.53,Monofásico Digital,Al Día
+MED-5154,Villamaría,Estrato 2,,120.5,57.55,Monofásico Digital,Financiado
+MED-5155,Villamaría,Comercial,,120.5,82.1,Monofásico Digital,Mora
+MED-5156,Villamaría,Comercial,220.0,125.5,38.96,Monofásico Digital,Al Día
+MED-5157,Palestina,Estrato 1,290.5,120.5,41.21,Monofásico Digital,Al Día
+MED-5158,Neira,Estrato 1,175.0,118.0,27.86,Bifásico Inteligente,Mora
+MED-5159,Manizales,Comercial,290.5,122.0,40.93,Monofásico Digital,Al Día
+MED-5160,Manizales,Estrato 2,130.5,120.5,20.45,Monofásico Digital,Al Día
+MED-5161,Neira,Estrato 2,130.5,120.5,71.77,Monofásico Digital,Al Día
+MED-5162,Palestina,Estrato 2,175.0,118.0,79.68,Trifásico Industrial,Al Día
+MED-5163,Manizales,Estrato 2,175.0,120.5,38.82,Bifásico Inteligente,Mora
+MED-5164,Neira,Estrato 1,95.0,118.0,8.41,Monofásico Digital,Al Día
+MED-5165,Chinchiná,Estrato 3,130.5,118.0,19.83,Monofásico Digital,Mora
+MED-5166,Manizales,Estrato 1,220.0,,80.43,Monofásico Digital,Mora
+MED-5167,Neira,Estrato 2,220.0,112.5,79.76,Trifásico Industrial,Financiado
+MED-5168,Palestina,Comercial,175.0,120.5,79.55,Trifásico Industrial,Al Día
+MED-5169,Neira,Estrato 1,290.5,125.5,28.0,Bifásico Inteligente,Al Día
+MED-5170,Palestina,Comercial,,118.0,72.08,Monofásico Digital,Al Día
+MED-5171,Villamaría,Estrato 3,220.0,112.5,55.09,Trifásico Industrial,Al Día
+MED-5172,Palestina,Comercial,290.5,122.0,17.62,Bifásico Inteligente,Al Día
+MED-5173,Palestina,Estrato 3,175.0,120.5,37.53,Bifásico Inteligente,Al Día
+MED-5174,Villamaría,Estrato 2,175.0,118.0,63.2,Bifásico Inteligente,Al Día
+MED-5175,Manizales,Estrato 3,95.0,120.5,75.23,Monofásico Digital,Al Día
+MED-5176,Chinchiná,Estrato 3,360.0,122.0,27.01,Bifásico Inteligente,Al Día
+MED-5177,Villamaría,Estrato 3,220.0,118.0,76.18,Bifásico Inteligente,Financiado
+MED-5178,Villamaría,Estrato 2,175.0,128.0,72.09,Monofásico Digital,Mora
+MED-5179,Villamaría,Estrato 2,360.0,122.0,11.06,Monofásico Digital,Al Día
+MED-5180,Villamaría,Estrato 2,130.5,120.5,22.05,Trifásico Industrial,Al Día
+MED-5181,Villamaría,Estrato 1,175.0,,63.4,Monofásico Digital,Al Día
+MED-5182,Chinchiná,Estrato 3,130.5,120.5,69.43,Bifásico Inteligente,Mora
+MED-5183,Palestina,Comercial,220.0,118.0,45.21,Monofásico Digital,Al Día
+MED-5184,Manizales,Estrato 2,130.5,125.5,46.43,Monofásico Digital,Financiado
+MED-5185,Neira,Estrato 4,220.0,118.0,81.89,Trifásico Industrial,Mora
+MED-5186,Neira,Estrato 1,95.0,118.0,79.89,Monofásico Digital,Al Día
+MED-5187,Neira,Estrato 4,175.0,120.5,75.0,Trifásico Industrial,Mora
+MED-5188,Chinchiná,Estrato 3,220.0,120.5,49.01,Monofásico Digital,Al Día
+MED-5189,Villamaría,Estrato 3,220.0,122.0,12.04,Monofásico Digital,Al Día
+MED-5190,Manizales,Estrato 1,290.5,122.0,06.09,Monofásico Digital,Mora
+MED-5191,Palestina,Estrato 2,130.5,118.0,33.99,Bifásico Inteligente,Al Día
+MED-5192,Palestina,Estrato 2,130.5,120.5,18.94,Monofásico Digital,Al Día
+MED-5193,Villamaría,Comercial,95.0,122.0,8.9,Trifásico Industrial,Al Día
+MED-5194,Palestina,Estrato 3,360.0,125.5,32.33,Monofásico Digital,Mora
+MED-5195,Villamaría,Estrato 2,175.0,120.5,74.48,Trifásico Industrial,Al Día
+MED-5196,Manizales,Comercial,360.0,125.5,37.65,Monofásico Digital,Al Día
+MED-5197,Manizales,Estrato 3,130.5,122.0,35.78,Monofásico Digital,Al Día
+MED-5198,Chinchiná,Estrato 4,130.5,122.0,7.61,Bifásico Inteligente,Mora
+MED-5199,Palestina,Estrato 1,95.0,125.5,10.78,Monofásico Digital,Al Día
+MED-5200,Neira,Estrato 3,95.0,118.0,26.42,Monofásico Digital,Financiado
+MED-5201,Palestina,Estrato 1,220.0,122.0,41.25,Trifásico Industrial,Al Día
+MED-5202,Neira,Estrato 4,220.0,120.5,51.54,Bifásico Inteligente,Al Día
+MED-5203,Villamaría,Estrato 4,175.0,125.5,59.35,Monofásico Digital,Financiado
+MED-5204,Palestina,Comercial,220.0,120.5,24.62,Bifásico Inteligente,Mora
+MED-5205,Manizales,Estrato 3,130.5,125.5,51.29,Monofásico Digital,Al Día
+MED-5206,Neira,Estrato 3,360.0,120.5,41.76,Monofásico Digital,Financiado
+MED-5207,Villamaría,Estrato 1,175.0,122.0,38.17,Monofásico Digital,Al Día
+MED-5208,Villamaría,Estrato 1,130.5,125.5,7.16,Monofásico Digital,Al Día
+MED-5209,Manizales,Comercial,220.0,128.0,57.67,Monofásico Digital,Al Día
+MED-5210,Villamaría,Estrato 2,220.0,118.0,31.47,Bifásico Inteligente,Mora
+MED-5211,Neira,Estrato 3,175.0,128.0,51.7,Monofásico Digital,Al Día
+MED-5212,Manizales,Estrato 3,130.5,125.5,31.04,Trifásico Industrial,Al Día
+MED-5213,Villamaría,Estrato 2,175.0,122.0,57.47,Monofásico Digital,Al Día
+MED-5214,Palestina,Comercial,,120.5,71.2,Bifásico Inteligente,Al Día
+MED-5215,Palestina,Estrato 3,130.5,120.5,68.91,Bifásico Inteligente,Al Día
+MED-5216,Manizales,Estrato 1,220.0,118.0,52.05,Monofásico Digital,Mora
+MED-5217,Neira,Estrato 1,220.0,120.5,19.88,Monofásico Digital,Al Día
+MED-5218,Manizales,Estrato 1,220.0,120.5,80.66,Trifásico Industrial,Al Día
+MED-5219,Manizales,Estrato 2,175.0,120.5,58.89,Monofásico Digital,Al Día
+MED-5220,Chinchiná,Estrato 3,175.0,122.0,71.55,Monofásico Digital,Al Día
+MED-5221,Villamaría,Estrato 1,95.0,112.5,25.27,Bifásico Inteligente,Al Día
+MED-5222,Manizales,Estrato 2,130.5,118.0,48.81,Bifásico Inteligente,Al Día
+MED-5223,Palestina,Estrato 3,290.5,112.5,75.72,Monofásico Digital,Al Día
+MED-5224,Neira,Estrato 1,,122.0,33.48,Monofásico Digital,Mora
+MED-5225,Neira,Estrato 4,220.0,120.5,66.43,Bifásico Inteligente,Mora
+MED-5226,Palestina,Comercial,175.0,,49.29,Bifásico Inteligente,Al Día
+MED-5227,Villamaría,Estrato 3,95.0,120.5,40.18,Trifásico Industrial,Financiado
+MED-5228,Chinchiná,Estrato 3,175.0,112.5,31.18,Monofásico Digital,Al Día
+MED-5229,Villamaría,Estrato 1,360.0,118.0,66.25,Monofásico Digital,Mora
+MED-5230,Palestina,Estrato 2,175.0,120.5,37.36,Monofásico Digital,Al Día
+MED-5231,Manizales,Estrato 2,,125.5,9.9,Monofásico Digital,Al Día
+MED-5232,Villamaría,Estrato 2,220.0,118.0,6.27,Monofásico Digital,Al Día
+MED-5233,Chinchiná,Estrato 1,95.0,125.5,82.79,Monofásico Digital,Mora
+MED-5234,Villamaría,Estrato 1,130.5,125.5,49.56,Bifásico Inteligente,Financiado
+MED-5235,Palestina,Estrato 2,220.0,112.5,69.93,Monofásico Digital,Al Día
+MED-5236,Palestina,Comercial,290.5,122.0,12.82,Monofásico Digital,Al Día
+MED-5237,Manizales,Estrato 3,130.5,122.0,37.3,Monofásico Digital,Mora
+MED-5238,Neira,Estrato 2,360.0,112.5,35.37,Monofásico Digital,Al Día
+MED-5239,Villamaría,Comercial,95.0,120.5,37.48,Monofásico Digital,Mora
+MED-5240,Manizales,Estrato 4,95.0,118.0,33.65,Trifásico Industrial,Al Día
+MED-5241,Chinchiná,Estrato 3,175.0,122.0,58.99,Monofásico Digital,Mora
+MED-5242,Palestina,Estrato 3,130.5,118.0,70.82,Bifásico Inteligente,Mora
+MED-5243,Neira,Estrato 1,,,8.5,Bifásico Inteligente,Al Día
+MED-5244,Manizales,Comercial,220.0,120.5,70.22,Bifásico Inteligente,Al Día
+MED-5245,Manizales,Estrato 2,130.5,122.0,53.11,Monofásico Digital,Financiado
+MED-5246,Neira,Estrato 2,175.0,128.0,21.22,Monofásico Digital,Al Día
+MED-5247,Chinchiná,Estrato 2,290.5,125.5,36.36,Bifásico Inteligente,Al Día
+MED-5248,Villamaría,Estrato 2,220.0,120.5,13.21,Monofásico Digital,Al Día
+MED-5249,Manizales,Estrato 2,175.0,118.0,76.56,Bifásico Inteligente,Al Día
+MED-5250,Palestina,Estrato 4,175.0,125.5,52.73,Trifásico Industrial,Al Día
+MED-5251,Villamaría,Estrato 3,130.5,125.5,75.94,Bifásico Inteligente,Al Día
+MED-5252,Manizales,Estrato 2,175.0,122.0,37.52,Monofásico Digital,Al Día
+MED-5253,Manizales,Estrato 3,130.5,120.5,33.33,Monofásico Digital,Al Día
+MED-5254,Neira,Comercial,220.0,122.0,60.39,Monofásico Digital,Mora
+MED-5255,Chinchiná,Estrato 4,220.0,128.0,55.05,Bifásico Inteligente,Al Día
+MED-5256,Villamaría,Comercial,130.5,118.0,71.97,Monofásico Digital,Al Día
+MED-5257,Villamaría,Estrato 2,95.0,120.5,74.49,Monofásico Digital,Mora
+MED-5258,Neira,Estrato 1,220.0,118.0,62.84,Monofásico Digital,Al Día
+MED-5259,Manizales,Estrato 3,480.0,125.5,49.83,Bifásico Inteligente,Al Día
+MED-5260,Villamaría,Estrato 1,,,82.6,Bifásico Inteligente,Al Día
+MED-5261,Chinchiná,Estrato 4,130.5,118.0,73.95,Bifásico Inteligente,Mora
+MED-5262,Manizales,Estrato 3,130.5,118.0,19.98,Trifásico Industrial,Al Día
+MED-5263,Villamaría,Comercial,130.5,122.0,51.78,Trifásico Industrial,Al Día
+MED-5264,Manizales,Comercial,130.5,128.0,10.23,Monofásico Digital,Al Día
+MED-5265,Chinchiná,Estrato 4,175.0,120.5,46.04,Monofásico Digital,Al Día
+MED-5266,Neira,Estrato 1,220.0,125.5,23.3,Bifásico Inteligente,Al Día
+MED-5267,Villamaría,Estrato 1,95.0,122.0,53.92,Bifásico Inteligente,Mora
+MED-5268,Neira,Estrato 1,220.0,120.5,71.41,Trifásico Industrial,Al Día
+MED-5269,Neira,Estrato 3,220.0,122.0,84.8,Monofásico Digital,Al Día
+MED-5270,Neira,Estrato 4,220.0,112.5,42.61,Monofásico Digital,Al Día
+MED-5271,Chinchiná,Estrato 3,480.0,125.5,77.94,Bifásico Inteligente,Al Día
+MED-5272,Chinchiná,Comercial,130.5,125.5,72.97,Monofásico Digital,Al Día
+MED-5273,Palestina,Estrato 2,175.0,120.5,9.23,Bifásico Inteligente,Al Día
+MED-5274,Neira,Estrato 1,175.0,118.0,18.42,Monofásico Digital,Al Día
+MED-5275,Neira,Estrato 4,95.0,122.0,72.42,Monofásico Digital,Al Día
+MED-5276,Manizales,Estrato 2,95.0,118.0,5.17,Trifásico Industrial,Al Día
+MED-5277,Palestina,Comercial,95.0,122.0,25.4,Bifásico Inteligente,Al Día
+MED-5278,Villamaría,Estrato 4,290.5,120.5,20.08,Bifásico Inteligente,Al Día
+MED-5279,Palestina,Estrato 4,130.5,128.0,23.12,Monofásico Digital,Al Día
+MED-5280,Palestina,Estrato 3,175.0,122.0,40.02,Bifásico Inteligente,Al Día
+MED-5281,Manizales,Estrato 2,,120.5,66.79,Bifásico Inteligente,Al Día
+MED-5282,Chinchiná,Comercial,290.5,128.0,75.34,Monofásico Digital,Mora
+MED-5283,Neira,Estrato 1,290.5,112.5,55.53,Trifásico Industrial,Financiado
+MED-5284,Manizales,Estrato 1,360.0,120.5,43.1,Monofásico Digital,Al Día
+MED-5285,Palestina,Comercial,95.0,122.0,67.04,Monofásico Digital,Al Día
+MED-5286,Villamaría,Estrato 3,95.0,120.5,69.01,Monofásico Digital,Al Día
+MED-5287,Palestina,Estrato 1,220.0,120.5,77.1,Bifásico Inteligente,Al Día
+MED-5288,Chinchiná,Estrato 4,95.0,118.0,5.1,Monofásico Digital,Financiado
+MED-5289,Palestina,Comercial,175.0,122.0,33.89,Monofásico Digital,Al Día
+MED-5290,Chinchiná,Estrato 2,130.5,112.5,53.96,Bifásico Inteligente,Al Día
+MED-5291,Palestina,Comercial,220.0,112.5,73.9,Bifásico Inteligente,Mora
+MED-5292,Manizales,Estrato 1,175.0,120.5,36.85,Monofásico Digital,Al Día
+MED-5293,Villamaría,Comercial,95.0,112.5,57.38,Bifásico Inteligente,Financiado
+MED-5294,Villamaría,Estrato 1,95.0,120.5,26.39,Monofásico Digital,Al Día
+MED-5295,Manizales,Estrato 2,360.0,118.0,29.69,Bifásico Inteligente,Al Día
+MED-5296,Chinchiná,Estrato 1,130.5,122.0,38.17,Monofásico Digital,Al Día
+MED-5297,Chinchiná,Estrato 1,220.0,120.5,57.23,Monofásico Digital,Al Día
+MED-5298,Palestina,Estrato 4,220.0,,12.42,Monofásico Digital,Al Día
+MED-5299,Neira,Estrato 2,130.5,122.0,72.4,Bifásico Inteligente,Al Día
+MED-5300,Neira,Estrato 1,130.5,118.0,81.55,Bifásico Inteligente,Al Día
+MED-5301,Manizales,Estrato 2,220.0,125.5,37.76,Monofásico Digital,Mora
+MED-5302,Villamaría,Estrato 1,95.0,118.0,9.73,Trifásico Industrial,Financiado
+MED-5303,Chinchiná,Estrato 3,220.0,112.5,13.88,Monofásico Digital,Al Día
+MED-5304,Manizales,Comercial,130.5,120.5,43.9,Monofásico Digital,Al Día
+MED-5305,Chinchiná,Estrato 2,95.0,122.0,36.31,Monofásico Digital,Al Día
+MED-5306,Manizales,Estrato 2,130.5,120.5,28.91,Monofásico Digital,Financiado
+MED-5307,Neira,Comercial,95.0,125.5,20.16,Bifásico Inteligente,Al Día
+MED-5308,Neira,Comercial,175.0,125.5,38.8,Bifásico Inteligente,Al Día
+MED-5309,Neira,Estrato 4,290.5,,25.26,Monofásico Digital,Al Día
+MED-5310,Neira,Estrato 1,360.0,120.5,81.96,Monofásico Digital,Mora
+MED-5311,Palestina,Estrato 2,95.0,,32.2,Bifásico Inteligente,Al Día
+MED-5312,Manizales,Comercial,220.0,120.5,28.17,Monofásico Digital,Al Día
+MED-5313,Manizales,Estrato 4,220.0,120.5,76.13,Monofásico Digital,Financiado
+MED-5314,Neira,Estrato 1,290.5,120.5,68.11,Trifásico Industrial,Al Día
+MED-5315,Manizales,Estrato 3,220.0,118.0,20.06,Trifásico Industrial,Al Día
+MED-5316,Villamaría,Estrato 4,360.0,122.0,83.38,Monofásico Digital,Al Día
+MED-5317,Manizales,Estrato 1,130.5,120.5,10.03,Monofásico Digital,Al Día
+MED-5318,Villamaría,Comercial,175.0,118.0,80.18,Bifásico Inteligente,Al Día
+MED-5319,Manizales,Estrato 4,175.0,120.5,14.01,Bifásico Inteligente,Al Día
+MED-5320,Palestina,Estrato 1,130.5,120.5,39.42,Bifásico Inteligente,Al Día
+MED-5321,Villamaría,Estrato 2,175.0,118.0,14.71,Monofásico Digital,Financiado
+MED-5322,Chinchiná,Estrato 1,95.0,125.5,06.09,Bifásico Inteligente,Al Día
+MED-5323,Manizales,Estrato 2,220.0,120.5,16.55,Bifásico Inteligente,Al Día
+MED-5324,Chinchiná,Estrato 2,130.5,112.5,38.28,Monofásico Digital,Al Día
+MED-5325,Chinchiná,Estrato 2,130.5,122.0,74.99,Bifásico Inteligente,Al Día
+MED-5326,Manizales,Estrato 1,220.0,118.0,9.42,Monofásico Digital,Mora
+MED-5327,Manizales,Estrato 3,290.5,120.5,55.43,Monofásico Digital,Al Día
+MED-5328,Neira,Estrato 3,220.0,112.5,64.76,Monofásico Digital,Mora
+MED-5329,Manizales,Comercial,,120.5,44.94,Monofásico Digital,Mora
+MED-5330,Neira,Estrato 3,220.0,118.0,48.7,Monofásico Digital,Al Día
+MED-5331,Palestina,Comercial,175.0,125.5,34.04,Monofásico Digital,Financiado
+MED-5332,Palestina,Estrato 4,220.0,120.5,73.74,Bifásico Inteligente,Financiado
+MED-5333,Manizales,Estrato 2,290.5,118.0,11.13,Monofásico Digital,Al Día
+MED-5334,Neira,Estrato 4,175.0,122.0,27.51,Monofásico Digital,Al Día
+MED-5335,Villamaría,Estrato 1,290.5,112.5,73.51,Bifásico Inteligente,Al Día
+MED-5336,Palestina,Estrato 1,175.0,112.5,81.32,Trifásico Industrial,Financiado
+MED-5337,Villamaría,Estrato 2,220.0,122.0,62.41,Trifásico Industrial,Al Día
+MED-5338,Chinchiná,Estrato 3,290.5,118.0,47.8,Monofásico Digital,Al Día
+MED-5339,Palestina,Comercial,175.0,120.5,50.17,Monofásico Digital,Al Día
+MED-5340,Villamaría,Estrato 3,175.0,120.5,39.22,Monofásico Digital,Al Día
+MED-5341,Neira,Comercial,130.5,,20.85,Monofásico Digital,Al Día
+MED-5342,Neira,Estrato 1,95.0,120.5,13.65,Monofásico Digital,Al Día
+MED-5343,Chinchiná,Estrato 3,175.0,118.0,35.74,Bifásico Inteligente,Al Día
+MED-5344,Neira,Estrato 3,95.0,128.0,5.12,Monofásico Digital,Al Día
+MED-5345,Palestina,Estrato 3,130.5,125.5,57.9,Monofásico Digital,Al Día
+MED-5346,Palestina,Estrato 3,220.0,118.0,24.52,Trifásico Industrial,Al Día
+MED-5347,Chinchiná,Estrato 4,130.5,128.0,80.36,Trifásico Industrial,Al Día
+MED-5348,Villamaría,Estrato 2,130.5,122.0,78.54,Bifásico Inteligente,Al Día
+MED-5349,Manizales,Comercial,95.0,118.0,50.55,Monofásico Digital,Mora
+MED-5350,Chinchiná,Estrato 4,175.0,120.5,81.95,Bifásico Inteligente,Al Día
+MED-5351,Palestina,Estrato 2,130.5,122.0,21.36,Monofásico Digital,Al Día
+MED-5352,Neira,Estrato 3,175.0,118.0,78.51,Trifásico Industrial,Mora
+MED-5353,Manizales,Estrato 3,360.0,120.5,11.38,Monofásico Digital,Mora
+MED-5354,Chinchiná,Estrato 3,95.0,112.5,29.05,Monofásico Digital,Al Día
+MED-5355,Chinchiná,Estrato 2,220.0,118.0,68.01,Monofásico Digital,Al Día
+MED-5356,Manizales,Estrato 4,95.0,125.5,46.96,Monofásico Digital,Al Día
+MED-5357,Palestina,Estrato 3,95.0,122.0,27.86,Trifásico Industrial,Financiado
+MED-5358,Manizales,Comercial,95.0,122.0,84.21,Bifásico Inteligente,Al Día
+MED-5359,Chinchiná,Estrato 3,175.0,112.5,49.54,Monofásico Digital,Al Día
+MED-5360,Manizales,Comercial,130.5,112.5,62.18,Monofásico Digital,Al Día
+MED-5361,Chinchiná,Estrato 2,,122.0,36.86,Monofásico Digital,Mora
+MED-5362,Villamaría,Estrato 2,,128.0,26.06,Monofásico Digital,Financiado
+MED-5363,Villamaría,Estrato 3,130.5,122.0,48.25,Monofásico Digital,Al Día
+MED-5364,Neira,Estrato 3,175.0,120.5,70.42,Monofásico Digital,Al Día
+MED-5365,Villamaría,Estrato 4,290.5,120.5,54.88,Bifásico Inteligente,Mora
+MED-5366,Palestina,Estrato 3,220.0,,14.45,Bifásico Inteligente,Mora
+MED-5367,Villamaría,Estrato 4,130.5,120.5,20.47,Trifásico Industrial,Al Día
+MED-5368,Villamaría,Estrato 2,130.5,,8.62,Monofásico Digital,Al Día
+MED-5369,Chinchiná,Estrato 3,130.5,120.5,69.35,Monofásico Digital,Financiado
+MED-5370,Manizales,Estrato 2,130.5,112.5,8.7,Monofásico Digital,Al Día
+MED-5371,Chinchiná,Estrato 3,175.0,122.0,23.45,Bifásico Inteligente,Al Día
+MED-5372,Villamaría,Estrato 4,130.5,118.0,5.7,Monofásico Digital,Al Día
+MED-5373,Chinchiná,Estrato 1,220.0,120.5,77.31,Monofásico Digital,Mora
+MED-5374,Palestina,Estrato 3,360.0,122.0,78.77,Monofásico Digital,Al Día
+MED-5375,Neira,Estrato 3,95.0,118.0,65.46,Monofásico Digital,Mora
+MED-5376,Palestina,Estrato 1,360.0,120.5,38.69,Monofásico Digital,Mora
+MED-5377,Manizales,Estrato 1,175.0,122.0,37.35,Trifásico Industrial,Financiado
+MED-5378,Manizales,Estrato 2,175.0,128.0,60.18,Bifásico Inteligente,Al Día
+MED-5379,Palestina,Estrato 3,175.0,120.5,9.16,Monofásico Digital,Mora
+MED-5380,Chinchiná,Estrato 4,175.0,122.0,70.89,Bifásico Inteligente,Al Día
+MED-5381,Villamaría,Estrato 2,95.0,118.0,22.3,Monofásico Digital,Mora
+MED-5382,Chinchiná,Estrato 3,95.0,125.5,35.83,Trifásico Industrial,Al Día
+MED-5383,Neira,Estrato 1,130.5,120.5,57.29,Bifásico Inteligente,Mora
+MED-5384,Neira,Estrato 3,130.5,120.5,29.21,Bifásico Inteligente,Al Día
+MED-5385,Chinchiná,Estrato 2,95.0,125.5,55.67,Monofásico Digital,Al Día
+MED-5386,Manizales,Estrato 4,95.0,120.5,28.63,Monofásico Digital,Financiado
+MED-5387,Neira,Estrato 1,220.0,125.5,65.91,Bifásico Inteligente,Al Día
+MED-5388,Villamaría,Estrato 3,360.0,,77.86,Monofásico Digital,Al Día
+MED-5389,Villamaría,Estrato 3,95.0,112.5,27.19,Monofásico Digital,Al Día
+MED-5390,Manizales,Estrato 3,220.0,118.0,38.74,Monofásico Digital,Al Día
+MED-5391,Villamaría,Estrato 4,95.0,122.0,75.59,Monofásico Digital,Mora
+MED-5392,Palestina,Estrato 1,220.0,,16.43,Bifásico Inteligente,Al Día
+MED-5393,Neira,Estrato 1,130.5,120.5,57.58,Bifásico Inteligente,Mora
+MED-5394,Chinchiná,Estrato 2,,120.5,31.59,Monofásico Digital,Mora
+MED-5395,Neira,Estrato 2,130.5,125.5,60.72,Monofásico Digital,Al Día
+MED-5396,Palestina,Estrato 3,175.0,120.5,57.85,Monofásico Digital,Al Día
+MED-5397,Neira,Estrato 4,290.5,122.0,66.42,Monofásico Digital,Financiado
+MED-5398,Neira,Estrato 2,95.0,128.0,35.11,Monofásico Digital,Mora
+MED-5399,Palestina,Estrato 3,95.0,120.5,75.61,Monofásico Digital,Al Día
+MED-5400,Manizales,Estrato 3,95.0,118.0,45.67,Monofásico Digital,Al Día
+MED-5401,Palestina,Estrato 4,130.5,125.5,43.2,Bifásico Inteligente,Al Día
+MED-5402,Manizales,Estrato 2,175.0,122.0,61.0,Bifásico Inteligente,Al Día
+MED-5403,Manizales,Estrato 3,360.0,120.5,6.86,Monofásico Digital,Al Día
+MED-5404,Manizales,Estrato 2,175.0,118.0,74.37,Monofásico Digital,Al Día
+MED-5405,Neira,Estrato 1,290.5,118.0,37.19,Monofásico Digital,Financiado
+MED-5406,Palestina,Estrato 2,175.0,122.0,66.54,Monofásico Digital,Al Día
+MED-5407,Neira,Estrato 1,175.0,122.0,70.65,Trifásico Industrial,Mora
+MED-5408,Palestina,Comercial,290.5,118.0,64.1,Bifásico Inteligente,Al Día
+MED-5409,Palestina,Estrato 4,130.5,112.5,78.83,Bifásico Inteligente,Al Día
+MED-5410,Villamaría,Estrato 3,360.0,128.0,17.73,Bifásico Inteligente,Mora
+MED-5411,Neira,Estrato 2,175.0,120.5,7.23,Monofásico Digital,Mora
+MED-5412,Palestina,Estrato 4,175.0,120.5,77.31,Bifásico Inteligente,Al Día
+MED-5413,Chinchiná,Estrato 1,220.0,,79.36,Bifásico Inteligente,Al Día
+MED-5414,Chinchiná,Estrato 3,130.5,118.0,25.93,Bifásico Inteligente,Al Día
+MED-5415,Manizales,Comercial,175.0,122.0,62.71,Trifásico Industrial,Al Día
+MED-5416,Palestina,Estrato 4,95.0,125.5,37.44,Bifásico Inteligente,Mora
+MED-5417,Villamaría,Estrato 1,130.5,125.5,27.73,Monofásico Digital,Al Día
+MED-5418,Palestina,Estrato 2,130.5,112.5,72.83,Bifásico Inteligente,Al Día
+MED-5419,Villamaría,Comercial,290.5,125.5,70.11,Monofásico Digital,Al Día
+MED-5420,Neira,Estrato 4,175.0,120.5,37.86,Monofásico Digital,Financiado
+MED-5421,Chinchiná,Estrato 3,130.5,125.5,81.24,Monofásico Digital,Al Día
+MED-5422,Neira,Estrato 1,175.0,112.5,26.47,Monofásico Digital,Al Día
+MED-5423,Neira,Estrato 3,290.5,128.0,46.06,Monofásico Digital,Al Día
+MED-5424,Palestina,Estrato 4,175.0,125.5,44.83,Monofásico Digital,Al Día
+MED-5425,Manizales,Estrato 3,480.0,122.0,56.09,Monofásico Digital,Al Día
+MED-5426,Neira,Estrato 2,220.0,120.5,36.15,Bifásico Inteligente,Al Día
+MED-5427,Neira,Estrato 2,95.0,120.5,49.83,Monofásico Digital,Al Día
+MED-5428,Chinchiná,Estrato 3,130.5,120.5,81.0,Bifásico Inteligente,Al Día
+MED-5429,Chinchiná,Estrato 1,175.0,118.0,36.24,Monofásico Digital,Al Día
+MED-5430,Manizales,Estrato 1,130.5,122.0,10.38,Monofásico Digital,Al Día
+MED-5431,Villamaría,Estrato 4,175.0,112.5,19.57,Monofásico Digital,Al Día
+MED-5432,Palestina,Estrato 2,175.0,120.5,39.04,Monofásico Digital,Al Día
+MED-5433,Palestina,Estrato 3,480.0,125.5,74.7,Monofásico Digital,Al Día
+MED-5434,Villamaría,Estrato 1,290.5,118.0,41.25,Trifásico Industrial,Mora
+MED-5435,Chinchiná,Estrato 4,175.0,120.5,32.88,Monofásico Digital,Al Día
+MED-5436,Chinchiná,Comercial,480.0,112.5,44.2,Monofásico Digital,Al Día
+MED-5437,Chinchiná,Comercial,220.0,,26.77,Monofásico Digital,Al Día
+MED-5438,Palestina,Estrato 2,95.0,120.5,49.71,Monofásico Digital,Al Día
+MED-5439,Palestina,Estrato 4,175.0,120.5,15.41,Monofásico Digital,Al Día
+MED-5440,Chinchiná,Estrato 2,175.0,122.0,5.68,Trifásico Industrial,Al Día
+MED-5441,Villamaría,Estrato 2,175.0,122.0,9.68,Trifásico Industrial,Al Día
+MED-5442,Chinchiná,Estrato 2,220.0,,61.88,Monofásico Digital,Al Día
+MED-5443,Neira,Estrato 3,95.0,118.0,17.58,Monofásico Digital,Al Día
+MED-5444,Manizales,Estrato 1,175.0,118.0,78.18,Monofásico Digital,Mora
+MED-5445,Villamaría,Estrato 2,130.5,,13.94,Trifásico Industrial,Al Día
+MED-5446,Neira,Estrato 3,290.5,122.0,14.04,Trifásico Industrial,Mora
+MED-5447,Chinchiná,Estrato 1,290.5,125.5,75.69,Bifásico Inteligente,Al Día
+MED-5448,Chinchiná,Estrato 4,130.5,118.0,81.3,Trifásico Industrial,Al Día
+MED-5449,Villamaría,Estrato 2,95.0,120.5,68.98,Bifásico Inteligente,Financiado
+MED-5450,Neira,Estrato 1,130.5,118.0,21.28,Bifásico Inteligente,Mora
+MED-5451,Neira,Estrato 3,95.0,118.0,79.65,Monofásico Digital,Mora
+MED-5452,Chinchiná,Estrato 2,175.0,120.5,27.88,Monofásico Digital,Al Día
+MED-5453,Chinchiná,Estrato 4,220.0,122.0,61.93,Trifásico Industrial,Mora
+MED-5454,Palestina,Estrato 3,95.0,128.0,70.8,Monofásico Digital,Al Día
+MED-5455,Chinchiná,Comercial,175.0,120.5,22.43,Monofásico Digital,Al Día
+MED-5456,Villamaría,Estrato 1,175.0,118.0,49.16,Bifásico Inteligente,Mora
+MED-5457,Manizales,Estrato 4,220.0,122.0,10.67,Monofásico Digital,Al Día
+MED-5458,Villamaría,Estrato 2,175.0,120.5,6.71,Monofásico Digital,Al Día
+MED-5459,Chinchiná,Estrato 2,175.0,112.5,72.25,Bifásico Inteligente,Al Día
+MED-5460,Villamaría,Comercial,220.0,118.0,33.87,Monofásico Digital,Al Día
+MED-5461,Villamaría,Estrato 3,95.0,118.0,79.64,Bifásico Inteligente,Al Día
+MED-5462,Palestina,Estrato 3,290.5,120.5,19.43,Bifásico Inteligente,Al Día
+MED-5463,Villamaría,Estrato 3,95.0,120.5,28.74,Bifásico Inteligente,Mora
+MED-5464,Manizales,Estrato 3,360.0,118.0,80.32,Monofásico Digital,Al Día
+MED-5465,Palestina,Estrato 3,220.0,120.5,52.7,Monofásico Digital,Al Día
+MED-5466,Palestina,Estrato 1,220.0,125.5,84.59,Bifásico Inteligente,Al Día
+MED-5467,Chinchiná,Estrato 3,95.0,120.5,84.33,Monofásico Digital,Al Día
+MED-5468,Manizales,Comercial,175.0,120.5,8.51,Monofásico Digital,Mora
+MED-5469,Chinchiná,Estrato 1,175.0,118.0,12.43,Monofásico Digital,Al Día
+MED-5470,Villamaría,Comercial,290.5,118.0,58.66,Bifásico Inteligente,Mora
+MED-5471,Manizales,Estrato 4,,120.5,20.05,Trifásico Industrial,Al Día
+MED-5472,Manizales,Estrato 3,175.0,120.5,83.39,Monofásico Digital,Mora
+MED-5473,Palestina,Estrato 2,175.0,122.0,76.43,Monofásico Digital,Al Día
+MED-5474,Manizales,Estrato 3,130.5,128.0,39.93,Monofásico Digital,Al Día
+MED-5475,Chinchiná,Estrato 1,95.0,118.0,34.32,Monofásico Digital,Al Día
+MED-5476,Villamaría,Estrato 2,220.0,125.5,31.64,Monofásico Digital,Al Día
+MED-5477,Manizales,Estrato 2,95.0,120.5,12.88,Monofásico Digital,Al Día
+MED-5478,Manizales,Estrato 2,220.0,120.5,62.01,Monofásico Digital,Al Día
+MED-5479,Neira,Comercial,175.0,118.0,51.83,Monofásico Digital,Al Día
+MED-5480,Neira,Estrato 3,220.0,122.0,71.14,Monofásico Digital,Al Día
+MED-5481,Manizales,Comercial,95.0,118.0,37.97,Bifásico Inteligente,Al Día
+MED-5482,Chinchiná,Estrato 1,130.5,118.0,48.89,Bifásico Inteligente,Al Día
+MED-5483,Villamaría,Estrato 1,95.0,122.0,53.3,Monofásico Digital,Financiado
+MED-5484,Villamaría,Estrato 1,220.0,128.0,37.66,Bifásico Inteligente,Al Día
+MED-5485,Manizales,Estrato 2,220.0,120.5,64.97,Monofásico Digital,Al Día
+MED-5486,Manizales,Estrato 2,220.0,118.0,23.38,Monofásico Digital,Al Día
+MED-5487,Villamaría,Estrato 4,220.0,122.0,27.78,Bifásico Inteligente,Al Día
+MED-5488,Chinchiná,Estrato 1,290.5,128.0,30.72,Monofásico Digital,Mora
+MED-5489,Palestina,Estrato 3,130.5,,81.63,Monofásico Digital,Al Día
+MED-5490,Palestina,Estrato 2,130.5,112.5,60.87,Monofásico Digital,Mora
+MED-5491,Palestina,Estrato 3,175.0,122.0,41.43,Bifásico Inteligente,Mora
+MED-5492,Villamaría,Estrato 2,220.0,120.5,52.14,Bifásico Inteligente,Financiado
+MED-5493,Chinchiná,Estrato 2,175.0,128.0,32.81,Bifásico Inteligente,Al Día
+MED-5494,Neira,Estrato 1,175.0,112.5,37.13,Bifásico Inteligente,Al Día
+MED-5495,Manizales,Estrato 4,290.5,,52.46,Bifásico Inteligente,Mora
+MED-5496,Chinchiná,Estrato 3,360.0,128.0,59.63,Monofásico Digital,Al Día
+MED-5497,Palestina,Comercial,220.0,122.0,35.68,Trifásico Industrial,Al Día
+MED-5498,Neira,Estrato 2,95.0,122.0,30.79,Monofásico Digital,Al Día
+MED-5499,Chinchiná,Estrato 1,130.5,120.5,77.09,Monofásico Digital,Mora
+MED-5500,Villamaría,Estrato 3,95.0,120.5,35.19,Monofásico Digital,Al Día
+MED-5501,Chinchiná,Comercial,130.5,125.5,28.92,Monofásico Digital,Mora
+MED-5502,Manizales,Comercial,220.0,118.0,56.56,Monofásico Digital,Mora
+MED-5503,Palestina,Estrato 2,290.5,120.5,46.87,Trifásico Industrial,Mora
+MED-5504,Villamaría,Comercial,220.0,122.0,65.62,Monofásico Digital,Mora
+MED-5505,Palestina,Estrato 2,480.0,118.0,27.4,Monofásico Digital,Financiado
+MED-5506,Chinchiná,Estrato 3,95.0,120.5,66.47,Monofásico Digital,Al Día
+MED-5507,Neira,Estrato 1,175.0,120.5,81.61,Monofásico Digital,Al Día
+MED-5508,Chinchiná,Comercial,220.0,,33.44,Monofásico Digital,Mora
+MED-5509,Chinchiná,Estrato 2,220.0,125.5,27.05,Monofásico Digital,Al Día
+MED-5510,Neira,Estrato 3,175.0,120.5,9.93,Monofásico Digital,Al Día
+MED-5511,Manizales,Estrato 2,95.0,112.5,9.37,Monofásico Digital,Al Día
+MED-5512,Chinchiná,Comercial,130.5,125.5,49.74,Monofásico Digital,Financiado
+MED-5513,Villamaría,Estrato 1,290.5,118.0,82.93,Bifásico Inteligente,Al Día
+MED-5514,Chinchiná,Estrato 4,175.0,122.0,22.19,Monofásico Digital,Mora
+MED-5515,Chinchiná,Comercial,290.5,122.0,47.92,Trifásico Industrial,Al Día
+MED-5516,Palestina,Estrato 2,220.0,122.0,61.86,Bifásico Inteligente,Mora
+MED-5517,Chinchiná,Estrato 2,480.0,118.0,67.85,Monofásico Digital,Al Día
+MED-5518,Manizales,Estrato 2,290.5,122.0,42.66,Trifásico Industrial,Al Día
+MED-5519,Palestina,Estrato 1,220.0,120.5,40.43,Trifásico Industrial,Mora
+MED-5520,Villamaría,Estrato 3,130.5,120.5,53.67,Monofásico Digital,Al Día
+MED-5521,Chinchiná,Estrato 4,220.0,120.5,47.56,Monofásico Digital,Al Día
+MED-5522,Villamaría,Estrato 3,130.5,118.0,82.54,Monofásico Digital,Al Día
+MED-5523,Chinchiná,Estrato 3,220.0,120.5,56.72,Monofásico Digital,Al Día
+MED-5524,Palestina,Estrato 2,220.0,112.5,7.13,Bifásico Inteligente,Financiado
+MED-5525,Palestina,Estrato 3,175.0,112.5,82.18,Bifásico Inteligente,Al Día
+MED-5526,Manizales,Estrato 3,290.5,120.5,67.17,Bifásico Inteligente,Al Día
+MED-5527,Neira,Comercial,175.0,118.0,38.94,Monofásico Digital,Al Día
+MED-5528,Palestina,Comercial,360.0,125.5,52.83,Monofásico Digital,Mora
+MED-5529,Neira,Estrato 1,290.5,122.0,36.16,Monofásico Digital,Mora
+MED-5530,Villamaría,Estrato 3,220.0,118.0,83.71,Monofásico Digital,Al Día
+MED-5531,Chinchiná,Estrato 2,220.0,122.0,12.41,Monofásico Digital,Al Día
+MED-5532,Palestina,Estrato 2,220.0,125.5,5.36,Bifásico Inteligente,Al Día
+MED-5533,Manizales,Estrato 2,360.0,112.5,80.37,Bifásico Inteligente,Al Día
+MED-5534,Palestina,Estrato 2,130.5,112.5,27.78,Monofásico Digital,Al Día
+MED-5535,Neira,Comercial,220.0,120.5,70.85,Trifásico Industrial,Al Día
+MED-5536,Neira,Estrato 2,95.0,112.5,32.14,Trifásico Industrial,Financiado
+MED-5537,Palestina,Estrato 4,175.0,120.5,05.04,Monofásico Digital,Mora
+MED-5538,Manizales,Estrato 1,220.0,112.5,82.61,Bifásico Inteligente,Al Día
+MED-5539,Villamaría,Estrato 1,175.0,120.5,50.78,Monofásico Digital,Mora
+MED-5540,Manizales,Estrato 3,175.0,120.5,9.77,Monofásico Digital,Al Día
+MED-5541,Neira,Estrato 2,130.5,120.5,10.64,Trifásico Industrial,Al Día
+MED-5542,Villamaría,Estrato 2,360.0,118.0,72.66,Monofásico Digital,Al Día
+MED-5543,Villamaría,Estrato 4,130.5,118.0,80.14,Trifásico Industrial,Financiado
+MED-5544,Chinchiná,Estrato 2,175.0,122.0,17.52,Bifásico Inteligente,Mora
+MED-5545,Neira,Estrato 3,290.5,120.5,12.25,Bifásico Inteligente,Al Día
+MED-5546,Palestina,Estrato 2,95.0,118.0,80.52,Monofásico Digital,Al Día
+MED-5547,Neira,Estrato 1,175.0,128.0,39.16,Bifásico Inteligente,Al Día
+MED-5548,Neira,Estrato 2,290.5,125.5,30.37,Bifásico Inteligente,Al Día
+MED-5549,Villamaría,Estrato 2,175.0,118.0,52.88,Monofásico Digital,Mora
+MED-5550,Manizales,Estrato 3,95.0,125.5,57.29,Monofásico Digital,Al Día
+MED-5551,Villamaría,Estrato 2,95.0,120.5,69.69,Monofásico Digital,Al Día
+MED-5552,Neira,Estrato 3,130.5,112.5,42.19,Monofásico Digital,Al Día
+MED-5553,Neira,Estrato 2,130.5,118.0,80.08,Monofásico Digital,Al Día
+MED-5554,Neira,Estrato 4,,112.5,72.58,Monofásico Digital,Al Día
+MED-5555,Manizales,Estrato 4,175.0,118.0,50.16,Monofásico Digital,Al Día
+MED-5556,Palestina,Estrato 2,360.0,128.0,8.44,Monofásico Digital,Al Día
+MED-5557,Neira,Estrato 4,290.5,112.5,10.99,Bifásico Inteligente,Al Día
+MED-5558,Manizales,Estrato 1,360.0,125.5,65.02,Trifásico Industrial,Al Día
+MED-5559,Palestina,Estrato 2,175.0,118.0,41.8,Bifásico Inteligente,Al Día
+MED-5560,Neira,Estrato 3,175.0,112.5,73.65,Monofásico Digital,Al Día
+MED-5561,Chinchiná,Estrato 1,130.5,122.0,51.05,Monofásico Digital,Al Día
+MED-5562,Neira,Comercial,175.0,120.5,15.69,Bifásico Inteligente,Al Día
+MED-5563,Villamaría,Estrato 1,,112.5,20.04,Monofásico Digital,Al Día
+MED-5564,Villamaría,Estrato 4,290.5,112.5,52.76,Bifásico Inteligente,Financiado
+MED-5565,Manizales,Estrato 3,,118.0,20.17,Trifásico Industrial,Al Día
+MED-5566,Neira,Estrato 1,220.0,120.5,8.71,Trifásico Industrial,Al Día
+MED-5567,Manizales,Comercial,175.0,122.0,33.11,Bifásico Inteligente,Financiado
+MED-5568,Palestina,Comercial,95.0,,81.89,Trifásico Industrial,Al Día
+MED-5569,Palestina,Estrato 4,130.5,122.0,29.43,Monofásico Digital,Al Día
+MED-5570,Palestina,Comercial,290.5,118.0,28.45,Monofásico Digital,Al Día
+MED-5571,Neira,Estrato 2,175.0,112.5,29.0,Monofásico Digital,Al Día
+MED-5572,Manizales,Estrato 4,220.0,118.0,28.78,Trifásico Industrial,Al Día
+MED-5573,Palestina,Estrato 3,95.0,120.5,16.97,Monofásico Digital,Al Día
+MED-5574,Palestina,Estrato 3,175.0,120.5,44.98,Trifásico Industrial,Mora
+MED-5575,Palestina,Estrato 2,175.0,125.5,56.79,Bifásico Inteligente,Al Día
+MED-5576,Chinchiná,Estrato 4,130.5,125.5,21.84,Monofásico Digital,Al Día
+MED-5577,Chinchiná,Estrato 1,130.5,120.5,22.34,Monofásico Digital,Al Día
+MED-5578,Palestina,Estrato 3,220.0,122.0,16.34,Bifásico Inteligente,Al Día
+MED-5579,Villamaría,Estrato 2,130.5,120.5,48.15,Trifásico Industrial,Financiado
+MED-5580,Villamaría,Estrato 2,95.0,112.5,79.84,Bifásico Inteligente,Al Día
+MED-5581,Chinchiná,Estrato 3,360.0,112.5,26.01,Bifásico Inteligente,Al Día
+MED-5582,Neira,Comercial,130.5,122.0,30.95,Trifásico Industrial,Al Día
+MED-5583,Manizales,Estrato 1,130.5,112.5,31.43,Monofásico Digital,Al Día
+MED-5584,Chinchiná,Estrato 1,175.0,125.5,6.87,Trifásico Industrial,Al Día
+MED-5585,Chinchiná,Estrato 3,220.0,125.5,58.48,Monofásico Digital,Al Día
+MED-5586,Manizales,Estrato 2,130.5,122.0,32.77,Bifásico Inteligente,Financiado
+MED-5587,Villamaría,Comercial,220.0,120.5,64.17,Monofásico Digital,Al Día
+MED-5588,Villamaría,Estrato 3,175.0,118.0,16.53,Trifásico Industrial,Financiado
+MED-5589,Neira,Estrato 4,95.0,125.5,53.43,Trifásico Industrial,Al Día
+MED-5590,Manizales,Estrato 2,95.0,,68.62,Monofásico Digital,Al Día
+MED-5591,Chinchiná,Estrato 2,130.5,122.0,39.95,Trifásico Industrial,Al Día
+MED-5592,Palestina,Estrato 4,95.0,122.0,23.1,Monofásico Digital,Mora
+MED-5593,Chinchiná,Estrato 3,95.0,120.5,84.72,Trifásico Industrial,Mora
+MED-5594,Villamaría,Estrato 2,360.0,118.0,22.91,Bifásico Inteligente,Al Día
+MED-5595,Chinchiná,Comercial,175.0,120.5,29.18,Bifásico Inteligente,Financiado
+MED-5596,Villamaría,Estrato 2,130.5,122.0,67.27,Monofásico Digital,Al Día
+MED-5597,Manizales,Estrato 4,220.0,122.0,70.4,Bifásico Inteligente,Al Día
+MED-5598,Villamaría,Estrato 1,290.5,122.0,58.96,Monofásico Digital,Al Día
+MED-5599,Palestina,Estrato 4,360.0,118.0,83.68,Monofásico Digital,Al Día
+MED-5600,Palestina,Estrato 2,360.0,125.5,68.1,Monofásico Digital,Al Día
+MED-5601,Palestina,Estrato 2,220.0,125.5,71.78,Trifásico Industrial,Mora
+MED-5602,Villamaría,Estrato 3,220.0,125.5,22.88,Bifásico Inteligente,Al Día
+MED-5603,Palestina,Estrato 4,175.0,122.0,39.47,Bifásico Inteligente,Al Día
+MED-5604,Villamaría,Estrato 1,175.0,122.0,21.5,Trifásico Industrial,Al Día
+MED-5605,Neira,Estrato 3,175.0,120.5,57.54,Monofásico Digital,Al Día
+MED-5606,Neira,Estrato 2,175.0,120.5,50.76,Bifásico Inteligente,Al Día
+MED-5607,Neira,Estrato 4,220.0,,40.57,Bifásico Inteligente,Al Día
+MED-5608,Neira,Estrato 3,130.5,122.0,58.73,Monofásico Digital,Al Día
+MED-5609,Neira,Estrato 1,130.5,122.0,50.53,Monofásico Digital,Al Día
+MED-5610,Villamaría,Estrato 1,130.5,112.5,42.95,Bifásico Inteligente,Al Día
+MED-5611,Villamaría,Comercial,360.0,120.5,32.48,Bifásico Inteligente,Al Día
+MED-5612,Villamaría,Estrato 3,95.0,118.0,47.39,Monofásico Digital,Al Día
+MED-5613,Chinchiná,Estrato 1,220.0,122.0,21.26,Monofásico Digital,Al Día
+MED-5614,Manizales,Estrato 3,,125.5,65.79,Monofásico Digital,Mora
+MED-5615,Villamaría,Comercial,175.0,118.0,58.24,Monofásico Digital,Al Día
+MED-5616,Manizales,Estrato 4,290.5,120.5,54.45,Bifásico Inteligente,Mora
+MED-5617,Chinchiná,Estrato 1,95.0,112.5,21.62,Bifásico Inteligente,Financiado
+MED-5618,Neira,Estrato 1,95.0,112.5,83.11,Bifásico Inteligente,Al Día
+MED-5619,Villamaría,Estrato 2,95.0,120.5,53.71,Monofásico Digital,Al Día
+MED-5620,Manizales,Estrato 3,220.0,122.0,20.41,Bifásico Inteligente,Al Día
+MED-5621,Manizales,Estrato 3,,118.0,26.67,Trifásico Industrial,Al Día
+MED-5622,Neira,Estrato 3,175.0,122.0,41.0,Monofásico Digital,Al Día
+MED-5623,Chinchiná,Estrato 1,175.0,120.5,5.78,Monofásico Digital,Al Día
+MED-5624,Villamaría,Estrato 2,220.0,118.0,6.58,Monofásico Digital,Al Día
+MED-5625,Manizales,Estrato 4,95.0,122.0,67.23,Bifásico Inteligente,Al Día
+MED-5626,Manizales,Estrato 3,290.5,112.5,79.53,Trifásico Industrial,Mora
+MED-5627,Palestina,Comercial,175.0,112.5,53.52,Bifásico Inteligente,Financiado
+MED-5628,Palestina,Estrato 1,130.5,122.0,19.21,Monofásico Digital,Al Día
+MED-5629,Chinchiná,Estrato 1,220.0,128.0,52.62,Bifásico Inteligente,Financiado
+MED-5630,Palestina,Comercial,220.0,118.0,55.83,Monofásico Digital,Al Día
+MED-5631,Palestina,Estrato 3,130.5,128.0,41.88,Trifásico Industrial,Mora
+MED-5632,Chinchiná,Estrato 2,130.5,122.0,30.76,Monofásico Digital,Al Día
+MED-5633,Villamaría,Estrato 3,175.0,125.5,37.97,Monofásico Digital,Mora
+MED-5634,Palestina,Estrato 4,130.5,125.5,50.04,Monofásico Digital,Al Día
+MED-5635,Neira,Estrato 3,130.5,112.5,27.53,Monofásico Digital,Al Día
+MED-5636,Villamaría,Estrato 3,175.0,120.5,9.25,Bifásico Inteligente,Al Día
+MED-5637,Villamaría,Estrato 2,130.5,120.5,51.52,Monofásico Digital,Al Día
+MED-5638,Chinchiná,Estrato 3,290.5,120.5,11.99,Monofásico Digital,Al Día
+MED-5639,Palestina,Estrato 3,290.5,125.5,15.36,Monofásico Digital,Al Día
+MED-5640,Villamaría,Estrato 4,95.0,122.0,64.99,Trifásico Industrial,Mora
+MED-5641,Palestina,Estrato 1,95.0,122.0,28.13,Trifásico Industrial,Al Día
+MED-5642,Manizales,Comercial,130.5,120.5,44.8,Monofásico Digital,Al Día
+MED-5643,Manizales,Estrato 3,130.5,125.5,64.37,Monofásico Digital,Financiado
+MED-5644,Chinchiná,Comercial,220.0,118.0,35.88,Monofásico Digital,Mora
+MED-5645,Manizales,Estrato 2,220.0,122.0,72.93,Bifásico Inteligente,Al Día
+MED-5646,Palestina,Estrato 3,220.0,122.0,33.67,Monofásico Digital,Mora
+MED-5647,Chinchiná,Estrato 4,290.5,112.5,43.62,Monofásico Digital,Mora
+MED-5648,Manizales,Estrato 3,130.5,120.5,45.3,Bifásico Inteligente,Al Día
+MED-5649,Manizales,Estrato 2,290.5,120.5,35.16,Monofásico Digital,Financiado
+MED-5650,Neira,Estrato 4,480.0,122.0,43.16,Bifásico Inteligente,Al Día
+MED-5651,Chinchiná,Estrato 2,220.0,118.0,48.68,Monofásico Digital,Al Día
+MED-5652,Manizales,Comercial,290.5,122.0,80.73,Trifásico Industrial,Al Día
+MED-5653,Manizales,Estrato 1,220.0,120.5,53.94,Trifásico Industrial,Al Día
+MED-5654,Palestina,Estrato 2,175.0,112.5,38.32,Bifásico Inteligente,Al Día
+MED-5655,Chinchiná,Estrato 1,220.0,120.5,41.48,Bifásico Inteligente,Al Día
+MED-5656,Villamaría,Estrato 1,175.0,120.5,42.47,Monofásico Digital,Financiado
+MED-5657,Chinchiná,Estrato 1,130.5,118.0,74.55,Monofásico Digital,Mora
+MED-5658,Chinchiná,Estrato 4,290.5,120.5,55.1,Trifásico Industrial,Mora
+MED-5659,Palestina,Estrato 3,95.0,118.0,6.54,Trifásico Industrial,Al Día
+MED-5660,Chinchiná,Comercial,130.5,118.0,40.97,Monofásico Digital,Al Día
+MED-5661,Manizales,Comercial,130.5,120.5,62.5,Bifásico Inteligente,Al Día
+MED-5662,Villamaría,Estrato 2,290.5,120.5,24.53,Monofásico Digital,Mora
+MED-5663,Manizales,Estrato 2,175.0,118.0,58.6,Trifásico Industrial,Al Día
+MED-5664,Palestina,Estrato 2,480.0,120.5,59.21,Monofásico Digital,Al Día
+MED-5665,Palestina,Estrato 1,,125.5,53.11,Bifásico Inteligente,Al Día
+MED-5666,Chinchiná,Estrato 1,95.0,120.5,36.78,Bifásico Inteligente,Al Día
+MED-5667,Neira,Comercial,,122.0,24.71,Monofásico Digital,Al Día
+MED-5668,Palestina,Comercial,95.0,118.0,72.71,Monofásico Digital,Mora
+MED-5669,Villamaría,Estrato 4,130.5,122.0,62.29,Bifásico Inteligente,Financiado
+MED-5670,Villamaría,Estrato 2,360.0,120.5,22.34,Monofásico Digital,Mora
+MED-5671,Palestina,Estrato 1,,125.5,52.15,Bifásico Inteligente,Al Día
+MED-5672,Neira,Estrato 2,175.0,,30.9,Bifásico Inteligente,Al Día
+MED-5673,Villamaría,Estrato 3,290.5,122.0,11.12,Bifásico Inteligente,Al Día
+MED-5674,Villamaría,Estrato 4,130.5,112.5,66.59,Bifásico Inteligente,Al Día
+MED-5675,Manizales,Estrato 1,220.0,122.0,49.42,Monofásico Digital,Al Día
+MED-5676,Manizales,Estrato 1,130.5,112.5,42.45,Monofásico Digital,Al Día
+MED-5677,Neira,Estrato 4,95.0,118.0,46.17,Monofásico Digital,Al Día
+MED-5678,Chinchiná,Comercial,95.0,118.0,35.14,Bifásico Inteligente,Al Día
+MED-5679,Neira,Comercial,130.5,120.5,43.74,Monofásico Digital,Al Día
+MED-5680,Chinchiná,Estrato 4,175.0,118.0,77.57,Monofásico Digital,Mora
+MED-5681,Manizales,Estrato 2,95.0,122.0,49.62,Bifásico Inteligente,Al Día
+MED-5682,Manizales,Estrato 4,130.5,120.5,31.24,Bifásico Inteligente,Al Día
+MED-5683,Neira,Estrato 3,290.5,122.0,36.3,Monofásico Digital,Mora
+MED-5684,Neira,Estrato 2,360.0,122.0,66.88,Monofásico Digital,Al Día
+MED-5685,Neira,Estrato 1,360.0,118.0,11.54,Bifásico Inteligente,Al Día
+MED-5686,Manizales,Estrato 1,,112.5,56.55,Bifásico Inteligente,Mora
+MED-5687,Manizales,Estrato 3,130.5,125.5,23.64,Bifásico Inteligente,Al Día
+MED-5688,Neira,Estrato 4,290.5,,60.08,Monofásico Digital,Al Día
+MED-5689,Palestina,Estrato 2,175.0,120.5,27.12,Bifásico Inteligente,Al Día
+MED-5690,Neira,Estrato 1,360.0,122.0,74.53,Monofásico Digital,Al Día
+MED-5691,Villamaría,Estrato 1,290.5,120.5,54.74,Bifásico Inteligente,Al Día
+MED-5692,Neira,Estrato 1,95.0,122.0,25.54,Monofásico Digital,Al Día
+MED-5693,Palestina,Estrato 1,220.0,118.0,83.03,Monofásico Digital,Al Día
+MED-5694,Chinchiná,Comercial,130.5,120.5,22.62,Monofásico Digital,Al Día
+MED-5695,Villamaría,Estrato 2,95.0,118.0,32.46,Monofásico Digital,Al Día
+MED-5696,Villamaría,Estrato 1,175.0,118.0,43.3,Monofásico Digital,Al Día
+MED-5697,Manizales,Estrato 4,360.0,122.0,11.43,Trifásico Industrial,Al Día
+MED-5698,Chinchiná,Estrato 2,290.5,122.0,75.9,Monofásico Digital,Al Día
+MED-5699,Palestina,Estrato 4,,118.0,62.83,Bifásico Inteligente,Mora
+MED-5700,Manizales,Estrato 3,220.0,122.0,24.0,Monofásico Digital,Al Día
+MED-5701,Palestina,Estrato 2,220.0,128.0,12.4,Bifásico Inteligente,Al Día
+MED-5702,Palestina,Estrato 2,175.0,,53.99,Monofásico Digital,Al Día
+MED-5703,Palestina,Estrato 2,95.0,128.0,35.02,Monofásico Digital,Al Día
+MED-5704,Villamaría,Estrato 4,95.0,120.5,23.04,Monofásico Digital,Al Día
+MED-5705,Villamaría,Estrato 1,220.0,120.5,10.09,Bifásico Inteligente,Mora
+MED-5706,Palestina,Estrato 4,220.0,122.0,46.15,Bifásico Inteligente,Al Día
+MED-5707,Palestina,Estrato 4,95.0,120.5,45.48,Monofásico Digital,Mora
+MED-5708,Palestina,Comercial,175.0,120.5,32.23,Monofásico Digital,Mora
+MED-5709,Neira,Estrato 2,360.0,128.0,51.08,Monofásico Digital,Al Día
+MED-5710,Villamaría,Estrato 2,220.0,118.0,18.89,Monofásico Digital,Al Día
+MED-5711,Neira,Estrato 3,290.5,120.5,60.17,Monofásico Digital,Mora
+MED-5712,Palestina,Estrato 3,220.0,118.0,66.73,Monofásico Digital,Financiado
+MED-5713,Chinchiná,Estrato 2,220.0,128.0,77.94,Bifásico Inteligente,Al Día
+MED-5714,Neira,Estrato 1,130.5,120.5,83.72,Bifásico Inteligente,Al Día
+MED-5715,Chinchiná,Estrato 4,,,36.83,Monofásico Digital,Mora
+MED-5716,Manizales,Estrato 3,175.0,118.0,13.28,Monofásico Digital,Al Día
+MED-5717,Villamaría,Comercial,175.0,122.0,50.87,Bifásico Inteligente,Al Día
+MED-5718,Manizales,Estrato 1,220.0,112.5,58.86,Monofásico Digital,Al Día
+MED-5719,Neira,Estrato 4,130.5,120.5,53.32,Bifásico Inteligente,Financiado
+MED-5720,Manizales,Estrato 2,220.0,120.5,38.58,Bifásico Inteligente,Al Día
+MED-5721,Manizales,Estrato 3,290.5,112.5,11.32,Monofásico Digital,Al Día
+MED-5722,Chinchiná,Comercial,130.5,125.5,79.17,Bifásico Inteligente,Al Día
+MED-5723,Chinchiná,Estrato 3,480.0,118.0,11.42,Bifásico Inteligente,Al Día
+MED-5724,Neira,Estrato 2,,120.5,69.55,Bifásico Inteligente,Al Día
+MED-5725,Villamaría,Estrato 2,,120.5,65.23,Monofásico Digital,Al Día
+MED-5726,Villamaría,Estrato 2,290.5,112.5,79.61,Bifásico Inteligente,Al Día
+MED-5727,Manizales,Estrato 2,95.0,120.5,22.53,Trifásico Industrial,Al Día
+MED-5728,Villamaría,Estrato 4,290.5,122.0,74.07,Trifásico Industrial,Al Día
+MED-5729,Neira,Estrato 1,175.0,120.5,24.55,Monofásico Digital,Al Día
+MED-5730,Palestina,Estrato 2,95.0,120.5,17.45,Trifásico Industrial,Mora
+MED-5731,Manizales,Estrato 2,175.0,120.5,46.12,Monofásico Digital,Al Día
+MED-5732,Palestina,Estrato 4,95.0,128.0,29.91,Trifásico Industrial,Al Día
+MED-5733,Palestina,Estrato 1,,112.5,27.02,Monofásico Digital,Al Día
+MED-5734,Chinchiná,Estrato 3,130.5,,17.77,Monofásico Digital,Mora
+MED-5735,Villamaría,Estrato 4,220.0,122.0,64.15,Bifásico Inteligente,Al Día
+MED-5736,Villamaría,Estrato 1,95.0,125.5,50.14,Bifásico Inteligente,Al Día
+MED-5737,Manizales,Comercial,175.0,120.5,19.16,Monofásico Digital,Al Día
+MED-5738,Palestina,Comercial,360.0,122.0,81.48,Monofásico Digital,Mora
+MED-5739,Neira,Estrato 1,175.0,120.5,78.61,Bifásico Inteligente,Al Día
+MED-5740,Palestina,Estrato 1,290.5,120.5,20.99,Monofásico Digital,Al Día
+MED-5741,Chinchiná,Estrato 1,290.5,120.5,34.29,Monofásico Digital,Al Día
+MED-5742,Manizales,Estrato 2,220.0,118.0,55.44,Monofásico Digital,Al Día
+MED-5743,Palestina,Estrato 3,95.0,120.5,47.74,Bifásico Inteligente,Financiado
+MED-5744,Manizales,Estrato 2,220.0,120.5,45.92,Monofásico Digital,Al Día
+MED-5745,Villamaría,Estrato 1,175.0,118.0,26.98,Trifásico Industrial,Mora
+MED-5746,Neira,Estrato 2,175.0,,66.69,Monofásico Digital,Al Día
+MED-5747,Neira,Estrato 3,360.0,122.0,43.97,Monofásico Digital,Al Día
+MED-5748,Palestina,Estrato 3,130.5,122.0,42.73,Monofásico Digital,Financiado
+MED-5749,Chinchiná,Estrato 2,130.5,125.5,73.27,Monofásico Digital,Mora
+MED-5750,Villamaría,Estrato 1,220.0,122.0,74.03,Trifásico Industrial,Mora
+MED-5751,Chinchiná,Estrato 2,220.0,122.0,44.83,Bifásico Inteligente,Al Día
+MED-5752,Palestina,Estrato 3,220.0,120.5,49.2,Monofásico Digital,Al Día
+MED-5753,Chinchiná,Estrato 4,95.0,120.5,13.59,Monofásico Digital,Financiado
+MED-5754,Villamaría,Estrato 2,95.0,118.0,54.5,Bifásico Inteligente,Financiado
+MED-5755,Villamaría,Estrato 3,130.5,128.0,36.42,Monofásico Digital,Mora
+MED-5756,Neira,Estrato 2,95.0,120.5,9.21,Monofásico Digital,Financiado
+MED-5757,Manizales,Estrato 2,290.5,125.5,9.75,Bifásico Inteligente,Al Día
+MED-5758,Villamaría,Estrato 4,130.5,120.5,37.47,Monofásico Digital,Al Día
+MED-5759,Neira,Estrato 3,175.0,122.0,26.43,Monofásico Digital,Al Día
+MED-5760,Neira,Estrato 1,175.0,112.5,21.52,Trifásico Industrial,Al Día
+MED-5761,Villamaría,Estrato 2,95.0,128.0,58.63,Bifásico Inteligente,Al Día
+MED-5762,Neira,Estrato 3,175.0,122.0,69.85,Monofásico Digital,Al Día
+MED-5763,Chinchiná,Estrato 2,95.0,120.5,15.29,Bifásico Inteligente,Al Día
+MED-5764,Neira,Estrato 4,175.0,118.0,65.74,Bifásico Inteligente,Al Día
+MED-5765,Palestina,Estrato 1,95.0,125.5,82.27,Bifásico Inteligente,Al Día
+MED-5766,Chinchiná,Estrato 2,360.0,120.5,11.72,Bifásico Inteligente,Al Día
+MED-5767,Palestina,Estrato 1,130.5,120.5,46.94,Trifásico Industrial,Al Día
+MED-5768,Neira,Estrato 4,290.5,122.0,40.4,Bifásico Inteligente,Al Día
+MED-5769,Manizales,Estrato 2,175.0,120.5,16.85,Monofásico Digital,Al Día
+MED-5770,Villamaría,Estrato 4,290.5,,18.95,Monofásico Digital,Al Día
+MED-5771,Neira,Estrato 1,95.0,128.0,46.69,Monofásico Digital,Al Día
+MED-5772,Palestina,Estrato 1,480.0,118.0,69.85,Bifásico Inteligente,Al Día
+MED-5773,Palestina,Estrato 2,175.0,120.5,80.48,Monofásico Digital,Financiado
+MED-5774,Manizales,Estrato 3,95.0,122.0,53.88,Monofásico Digital,Financiado
+MED-5775,Manizales,Estrato 2,,122.0,6.16,Monofásico Digital,Al Día
+MED-5776,Manizales,Estrato 2,360.0,,63.83,Trifásico Industrial,Al Día
+MED-5777,Palestina,Estrato 2,290.5,120.5,42.04,Monofásico Digital,Mora
+MED-5778,Villamaría,Estrato 2,130.5,125.5,12.24,Monofásico Digital,Al Día
+MED-5779,Neira,Estrato 1,290.5,112.5,42.35,Bifásico Inteligente,Al Día
+MED-5780,Villamaría,Estrato 3,290.5,118.0,70.84,Bifásico Inteligente,Al Día
+MED-5781,Manizales,Comercial,220.0,118.0,11.76,Monofásico Digital,Financiado
+MED-5782,Chinchiná,Estrato 1,175.0,120.5,67.55,Monofásico Digital,Al Día
+MED-5783,Neira,Estrato 3,95.0,118.0,71.1,Trifásico Industrial,Al Día
+MED-5784,Manizales,Estrato 2,130.5,125.5,58.58,Bifásico Inteligente,Al Día
+MED-5785,Chinchiná,Estrato 3,95.0,118.0,22.14,Monofásico Digital,Al Día
+MED-5786,Chinchiná,Estrato 3,130.5,118.0,65.65,Trifásico Industrial,Al Día
+MED-5787,Chinchiná,Estrato 1,360.0,118.0,12.18,Trifásico Industrial,Al Día
+MED-5788,Manizales,Estrato 4,175.0,122.0,71.45,Bifásico Inteligente,Al Día
+MED-5789,Palestina,Estrato 3,220.0,112.5,77.57,Bifásico Inteligente,Al Día
+MED-5790,Chinchiná,Estrato 1,175.0,120.5,34.53,Monofásico Digital,Al Día
+MED-5791,Chinchiná,Estrato 1,,118.0,37.14,Monofásico Digital,Al Día
+MED-5792,Villamaría,Comercial,175.0,128.0,58.12,Monofásico Digital,Mora
+MED-5793,Palestina,Estrato 2,95.0,120.5,79.36,Bifásico Inteligente,Mora
+MED-5794,Manizales,Estrato 1,175.0,112.5,36.94,Monofásico Digital,Al Día
+MED-5795,Neira,Estrato 2,220.0,120.5,20.61,Monofásico Digital,Al Día
+MED-5796,Neira,Estrato 4,220.0,122.0,54.52,Monofásico Digital,Al Día
+MED-5797,Chinchiná,Estrato 2,480.0,125.5,56.17,Monofásico Digital,Al Día
+MED-5798,Manizales,Estrato 3,95.0,120.5,65.64,Monofásico Digital,Al Día
+MED-5799,Palestina,Estrato 1,130.5,125.5,17.39,Bifásico Inteligente,Al Día
+MED-5800,Manizales,Estrato 3,175.0,112.5,41.55,Trifásico Industrial,Al Día
+MED-5801,Palestina,Estrato 2,130.5,118.0,53.8,Monofásico Digital,Mora
+MED-5802,Neira,Estrato 3,130.5,,69.16,Monofásico Digital,Al Día
+MED-5803,Chinchiná,Estrato 3,290.5,122.0,10.42,Monofásico Digital,Mora
+MED-5804,Villamaría,Estrato 1,220.0,122.0,32.11,Bifásico Inteligente,Mora
+MED-5805,Palestina,Estrato 1,175.0,118.0,33.38,Monofásico Digital,Al Día
+MED-5806,Villamaría,Comercial,290.5,120.5,52.04,Trifásico Industrial,Mora
+MED-5807,Chinchiná,Estrato 3,130.5,122.0,28.16,Monofásico Digital,Al Día
+MED-5808,Manizales,Comercial,,122.0,37.36,Bifásico Inteligente,Financiado
+MED-5809,Palestina,Estrato 1,,120.5,14.04,Monofásico Digital,Al Día
+MED-5810,Neira,Estrato 2,220.0,,73.52,Trifásico Industrial,Al Día
+MED-5811,Neira,Comercial,220.0,120.5,56.63,Monofásico Digital,Al Día
+MED-5812,Neira,Estrato 1,130.5,125.5,84.31,Trifásico Industrial,Mora
+MED-5813,Manizales,Estrato 1,130.5,122.0,20.28,Monofásico Digital,Al Día
+MED-5814,Palestina,Estrato 2,175.0,120.5,33.36,Monofásico Digital,Financiado
+MED-5815,Villamaría,Estrato 2,220.0,118.0,35.69,Bifásico Inteligente,Al Día
+MED-5816,Chinchiná,Estrato 2,175.0,112.5,27.81,Monofásico Digital,Al Día
+MED-5817,Chinchiná,Estrato 2,360.0,128.0,46.38,Bifásico Inteligente,Mora
+MED-5818,Chinchiná,Estrato 3,95.0,120.5,47.47,Monofásico Digital,Al Día
+MED-5819,Villamaría,Estrato 2,290.5,122.0,46.62,Bifásico Inteligente,Al Día
+MED-5820,Manizales,Estrato 1,175.0,120.5,26.59,Trifásico Industrial,Al Día
+MED-5821,Neira,Comercial,175.0,122.0,46.73,Monofásico Digital,Al Día
+MED-5822,Neira,Comercial,175.0,118.0,32.58,Monofásico Digital,Mora
+MED-5823,Palestina,Comercial,95.0,120.5,73.08,Bifásico Inteligente,Al Día
+MED-5824,Chinchiná,Estrato 3,480.0,122.0,60.49,Monofásico Digital,Al Día
+MED-5825,Palestina,Estrato 2,290.5,128.0,71.12,Bifásico Inteligente,Al Día
+MED-5826,Manizales,Estrato 3,360.0,120.5,33.55,Trifásico Industrial,Al Día
+MED-5827,Manizales,Estrato 2,220.0,122.0,12.15,Trifásico Industrial,Mora
+MED-5828,Villamaría,Estrato 4,175.0,112.5,14.71,Monofásico Digital,Mora
+MED-5829,Villamaría,Estrato 3,220.0,120.5,21.63,Bifásico Inteligente,Al Día
+MED-5830,Villamaría,Estrato 3,130.5,122.0,17.15,Bifásico Inteligente,Al Día
+MED-5831,Manizales,Estrato 4,175.0,128.0,81.85,Monofásico Digital,Al Día
+MED-5832,Neira,Estrato 3,360.0,125.5,37.74,Monofásico Digital,Al Día
+MED-5833,Villamaría,Comercial,95.0,125.5,63.27,Monofásico Digital,Mora
+MED-5834,Chinchiná,Estrato 3,175.0,122.0,53.14,Monofásico Digital,Mora
+MED-5835,Neira,Estrato 2,175.0,122.0,55.1,Monofásico Digital,Al Día
+MED-5836,Palestina,Estrato 2,95.0,120.5,63.12,Bifásico Inteligente,Al Día
+MED-5837,Neira,Estrato 3,175.0,122.0,75.79,Bifásico Inteligente,Al Día
+MED-5838,Palestina,Estrato 2,290.5,118.0,70.85,Monofásico Digital,Mora
+MED-5839,Palestina,Estrato 2,175.0,122.0,51.49,Monofásico Digital,Al Día
+MED-5840,Chinchiná,Estrato 2,130.5,118.0,47.86,Bifásico Inteligente,Al Día
+MED-5841,Neira,Comercial,175.0,118.0,72.86,Monofásico Digital,Financiado
+MED-5842,Palestina,Estrato 3,130.5,122.0,45.97,Monofásico Digital,Al Día
+MED-5843,Neira,Comercial,175.0,122.0,40.21,Bifásico Inteligente,Al Día
+MED-5844,Chinchiná,Estrato 4,95.0,120.5,63.77,Monofásico Digital,Al Día
+MED-5845,Neira,Estrato 3,175.0,122.0,74.77,Trifásico Industrial,Al Día
+MED-5846,Palestina,Comercial,95.0,120.5,71.78,Monofásico Digital,Al Día
+MED-5847,Chinchiná,Estrato 3,130.5,118.0,24.25,Monofásico Digital,Al Día
+MED-5848,Palestina,Estrato 3,95.0,122.0,13.26,Bifásico Inteligente,Mora
+MED-5849,Manizales,Estrato 1,360.0,120.5,15.66,Monofásico Digital,Al Día
+MED-5850,Neira,Comercial,130.5,122.0,30.32,Monofásico Digital,Mora
+MED-5851,Manizales,Estrato 2,175.0,118.0,16.29,Monofásico Digital,Al Día
+MED-5852,Manizales,Estrato 1,290.5,118.0,56.88,Bifásico Inteligente,Al Día
+MED-5853,Chinchiná,Comercial,130.5,120.5,72.49,Bifásico Inteligente,Al Día
+MED-5854,Manizales,Estrato 1,,118.0,53.06,Monofásico Digital,Financiado
+MED-5855,Palestina,Estrato 2,220.0,122.0,37.19,Trifásico Industrial,Al Día
+MED-5856,Manizales,Estrato 3,175.0,122.0,20.55,Monofásico Digital,Al Día
+MED-5857,Chinchiná,Estrato 1,95.0,118.0,27.0,Bifásico Inteligente,Al Día
+MED-5858,Manizales,Estrato 2,95.0,118.0,37.39,Bifásico Inteligente,Al Día
+MED-5859,Villamaría,Estrato 3,130.5,112.5,35.48,Trifásico Industrial,Mora
+MED-5860,Neira,Estrato 2,130.5,120.5,44.46,Monofásico Digital,Al Día
+MED-5861,Chinchiná,Estrato 3,290.5,120.5,82.35,Monofásico Digital,Al Día
+MED-5862,Manizales,Estrato 4,,128.0,48.52,Monofásico Digital,Al Día
+MED-5863,Neira,Estrato 3,95.0,120.5,47.0,Monofásico Digital,Mora
+MED-5864,Manizales,Comercial,175.0,122.0,68.23,Monofásico Digital,Mora
+MED-5865,Palestina,Estrato 3,220.0,122.0,28.9,Trifásico Industrial,Mora
+MED-5866,Manizales,Estrato 4,220.0,120.5,22.58,Monofásico Digital,Al Día
+MED-5867,Villamaría,Estrato 3,480.0,118.0,37.04,Monofásico Digital,Mora
+MED-5868,Chinchiná,Estrato 2,130.5,125.5,13.45,Bifásico Inteligente,Al Día
+MED-5869,Villamaría,Estrato 2,130.5,120.5,24.74,Monofásico Digital,Mora
+MED-5870,Manizales,Estrato 2,175.0,,78.95,Bifásico Inteligente,Al Día
+MED-5871,Manizales,Estrato 1,290.5,120.5,68.32,Monofásico Digital,Al Día
+MED-5872,Chinchiná,Estrato 3,130.5,120.5,8.23,Bifásico Inteligente,Al Día
+MED-5873,Palestina,Estrato 1,290.5,118.0,37.03,Bifásico Inteligente,Al Día
+MED-5874,Manizales,Estrato 3,290.5,122.0,27.64,Bifásico Inteligente,Al Día
+MED-5875,Manizales,Estrato 2,220.0,122.0,41.1,Trifásico Industrial,Al Día
+MED-5876,Manizales,Estrato 2,290.5,120.5,55.55,Bifásico Inteligente,Mora
+MED-5877,Manizales,Estrato 3,,112.5,17.18,Bifásico Inteligente,Al Día
+MED-5878,Neira,Estrato 3,175.0,112.5,18.16,Bifásico Inteligente,Al Día
+MED-5879,Neira,Estrato 4,360.0,118.0,11.28,Bifásico Inteligente,Al Día
+MED-5880,Villamaría,Estrato 2,95.0,122.0,56.3,Bifásico Inteligente,Mora
+MED-5881,Neira,Comercial,,118.0,11.47,Trifásico Industrial,Al Día
+MED-5882,Manizales,Estrato 2,130.5,120.5,66.82,Monofásico Digital,Financiado
+MED-5883,Chinchiná,Estrato 2,220.0,118.0,9.54,Bifásico Inteligente,Mora
+MED-5884,Villamaría,Estrato 4,130.5,125.5,11.61,Monofásico Digital,Al Día
+MED-5885,Neira,Comercial,290.5,118.0,25.49,Monofásico Digital,Al Día
+MED-5886,Manizales,Estrato 3,290.5,120.5,37.83,Trifásico Industrial,Al Día
+MED-5887,Villamaría,Estrato 2,95.0,120.5,49.78,Monofásico Digital,Al Día
+MED-5888,Villamaría,Estrato 3,175.0,,52.79,Monofásico Digital,Al Día
+MED-5889,Chinchiná,Comercial,95.0,120.5,05.06,Bifásico Inteligente,Al Día
+MED-5890,Chinchiná,Estrato 3,290.5,120.5,23.65,Monofásico Digital,Al Día
+MED-5891,Chinchiná,Comercial,360.0,120.5,65.66,Monofásico Digital,Al Día
+MED-5892,Manizales,Estrato 1,480.0,120.5,20.11,Monofásico Digital,Al Día
+MED-5893,Manizales,Estrato 2,175.0,125.5,27.99,Trifásico Industrial,Financiado
+MED-5894,Villamaría,Estrato 3,130.5,112.5,71.28,Monofásico Digital,Al Día
+MED-5895,Villamaría,Estrato 2,220.0,118.0,9.55,Bifásico Inteligente,Al Día
+MED-5896,Villamaría,Estrato 1,220.0,118.0,55.7,Trifásico Industrial,Al Día
+MED-5897,Manizales,Estrato 2,130.5,122.0,41.81,Monofásico Digital,Al Día
+MED-5898,Villamaría,Estrato 1,,120.5,70.42,Monofásico Digital,Al Día
+MED-5899,Palestina,Estrato 1,175.0,125.5,43.19,Monofásico Digital,Al Día
+MED-5900,Neira,Estrato 1,175.0,118.0,7.58,Trifásico Industrial,Al Día
+MED-5901,Palestina,Comercial,220.0,,44.09,Monofásico Digital,Mora
+MED-5902,Manizales,Estrato 2,95.0,122.0,5.28,Monofásico Digital,Al Día
+MED-5903,Manizales,Estrato 1,220.0,122.0,16.58,Monofásico Digital,Al Día
+MED-5904,Manizales,Estrato 2,175.0,128.0,18.26,Monofásico Digital,Mora
+MED-5905,Chinchiná,Estrato 3,175.0,118.0,10.95,Bifásico Inteligente,Al Día
+MED-5906,Palestina,Estrato 2,95.0,118.0,38.63,Monofásico Digital,Al Día
+MED-5907,Manizales,Comercial,175.0,122.0,44.3,Trifásico Industrial,Financiado
+MED-5908,Chinchiná,Estrato 3,95.0,120.5,24.85,Monofásico Digital,Al Día
+MED-5909,Neira,Estrato 1,130.5,112.5,47.03,Bifásico Inteligente,Al Día
+MED-5910,Manizales,Estrato 1,290.5,118.0,78.49,Monofásico Digital,Al Día
+MED-5911,Neira,Estrato 3,175.0,120.5,20.0,Bifásico Inteligente,Mora
+MED-5912,Palestina,Estrato 1,220.0,118.0,72.12,Monofásico Digital,Al Día
+MED-5913,Villamaría,Estrato 1,130.5,118.0,43.22,Monofásico Digital,Mora
+MED-5914,Chinchiná,Estrato 4,130.5,118.0,68.22,Monofásico Digital,Al Día
+MED-5915,Villamaría,Comercial,130.5,125.5,29.67,Bifásico Inteligente,Al Día
+MED-5916,Villamaría,Estrato 3,130.5,125.5,55.27,Monofásico Digital,Mora
+MED-5917,Manizales,Estrato 2,175.0,112.5,42.07,Monofásico Digital,Al Día
+MED-5918,Manizales,Estrato 2,175.0,120.5,35.9,Monofásico Digital,Mora
+MED-5919,Palestina,Estrato 4,95.0,120.5,32.85,Bifásico Inteligente,Al Día
+MED-5920,Villamaría,Estrato 1,175.0,122.0,75.27,Bifásico Inteligente,Mora
+MED-5921,Chinchiná,Comercial,220.0,122.0,23.14,Trifásico Industrial,Al Día
+MED-5922,Villamaría,Estrato 2,360.0,120.5,13.34,Monofásico Digital,Mora
+MED-5923,Chinchiná,Estrato 1,,120.5,63.65,Trifásico Industrial,Mora
+MED-5924,Palestina,Estrato 2,220.0,112.5,8.63,Bifásico Inteligente,Al Día
+MED-5925,Manizales,Estrato 2,290.5,118.0,78.83,Monofásico Digital,Al Día
+MED-5926,Neira,Comercial,,120.5,62.65,Bifásico Inteligente,Al Día
+MED-5927,Chinchiná,Estrato 4,290.5,122.0,62.57,Bifásico Inteligente,Financiado
+MED-5928,Chinchiná,Estrato 4,175.0,118.0,43.52,Monofásico Digital,Al Día
+MED-5929,Palestina,Comercial,360.0,118.0,53.91,Bifásico Inteligente,Al Día
+MED-5930,Manizales,Estrato 2,175.0,120.5,35.75,Bifásico Inteligente,Al Día
+MED-5931,Villamaría,Estrato 3,130.5,,74.61,Bifásico Inteligente,Financiado
+MED-5932,Palestina,Estrato 1,290.5,122.0,48.58,Monofásico Digital,Mora
+MED-5933,Manizales,Estrato 3,220.0,118.0,68.63,Monofásico Digital,Al Día
+MED-5934,Neira,Estrato 3,220.0,125.5,65.72,Bifásico Inteligente,Financiado
+MED-5935,Manizales,Estrato 3,175.0,122.0,20.8,Trifásico Industrial,Al Día
+MED-5936,Chinchiná,Estrato 3,130.5,120.5,19.48,Monofásico Digital,Al Día
+MED-5937,Palestina,Comercial,220.0,118.0,81.29,Monofásico Digital,Mora
+MED-5938,Manizales,Estrato 1,95.0,122.0,24.89,Trifásico Industrial,Al Día
+MED-5939,Neira,Estrato 2,175.0,120.5,79.85,Monofásico Digital,Al Día
+MED-5940,Chinchiná,Estrato 1,290.5,118.0,78.52,Monofásico Digital,Al Día
+MED-5941,Palestina,Estrato 3,95.0,,31.22,Trifásico Industrial,Al Día
+MED-5942,Villamaría,Comercial,175.0,120.5,34.35,Monofásico Digital,Al Día
+MED-5943,Neira,Estrato 3,220.0,120.5,42.74,Trifásico Industrial,Al Día
+MED-5944,Neira,Comercial,220.0,112.5,42.04,Monofásico Digital,Al Día
+MED-5945,Villamaría,Estrato 1,130.5,122.0,05.02,Monofásico Digital,Mora
+MED-5946,Palestina,Estrato 3,175.0,122.0,59.6,Trifásico Industrial,Al Día
+MED-5947,Neira,Estrato 3,360.0,120.5,5.73,Monofásico Digital,Al Día
+MED-5948,Manizales,Estrato 4,290.5,,16.6,Monofásico Digital,Al Día
+MED-5949,Neira,Comercial,,128.0,8.62,Monofásico Digital,Al Día
+MED-5950,Manizales,Estrato 1,290.5,118.0,84.9,Monofásico Digital,Al Día
+MED-5951,Villamaría,Estrato 1,360.0,120.5,13.55,Monofásico Digital,Al Día
+MED-5952,Chinchiná,Estrato 1,220.0,118.0,78.23,Bifásico Inteligente,Al Día
+MED-5953,Villamaría,Estrato 4,175.0,118.0,16.13,Monofásico Digital,Al Día
+MED-5954,Manizales,Estrato 3,290.5,120.5,33.77,Monofásico Digital,Mora
+MED-5955,Neira,Estrato 1,95.0,122.0,37.49,Monofásico Digital,Al Día
+MED-5956,Chinchiná,Estrato 2,175.0,120.5,28.29,Bifásico Inteligente,Mora
+MED-5957,Villamaría,Estrato 3,480.0,120.5,84.62,Bifásico Inteligente,Al Día
+MED-5958,Neira,Estrato 3,175.0,,10.96,Bifásico Inteligente,Financiado
+MED-5959,Neira,Estrato 2,175.0,,11.17,Monofásico Digital,Mora
+MED-5960,Chinchiná,Estrato 1,95.0,120.5,61.38,Monofásico Digital,Al Día
+MED-5961,Palestina,Estrato 2,290.5,120.5,44.82,Monofásico Digital,Al Día
+MED-5962,Chinchiná,Estrato 4,175.0,120.5,69.86,Monofásico Digital,Al Día
+MED-5963,Palestina,Estrato 2,220.0,122.0,43.67,Monofásico Digital,Al Día
+MED-5964,Palestina,Estrato 3,95.0,118.0,24.33,Monofásico Digital,Mora
+MED-5965,Manizales,Estrato 3,95.0,120.5,15.88,Bifásico Inteligente,Al Día
+MED-5966,Palestina,Estrato 3,220.0,120.5,33.04,Monofásico Digital,Al Día
+MED-5967,Villamaría,Estrato 2,,125.5,65.14,Monofásico Digital,Al Día
+MED-5968,Manizales,Estrato 3,175.0,120.5,69.78,Bifásico Inteligente,Al Día
+MED-5969,Chinchiná,Estrato 3,220.0,,58.29,Bifásico Inteligente,Financiado
+MED-5970,Villamaría,Estrato 2,95.0,128.0,67.43,Monofásico Digital,Financiado
+MED-5971,Neira,Estrato 2,,120.5,60.01,Monofásico Digital,Financiado
+MED-5972,Chinchiná,Comercial,130.5,120.5,50.53,Trifásico Industrial,Al Día
+MED-5973,Manizales,Estrato 2,95.0,122.0,34.45,Monofásico Digital,Mora
+MED-5974,Villamaría,Comercial,175.0,118.0,22.02,Monofásico Digital,Al Día
+MED-5975,Manizales,Estrato 3,290.5,120.5,52.63,Bifásico Inteligente,Al Día
+MED-5976,Palestina,Estrato 2,175.0,118.0,33.44,Trifásico Industrial,Financiado
+MED-5977,Palestina,Estrato 1,220.0,120.5,22.78,Monofásico Digital,Mora
+MED-5978,Chinchiná,Estrato 3,,125.5,69.36,Monofásico Digital,Al Día
+MED-5979,Villamaría,Estrato 2,175.0,122.0,22.14,Bifásico Inteligente,Al Día
+MED-5980,Villamaría,Comercial,95.0,120.5,73.78,Bifásico Inteligente,Al Día
+MED-5981,Manizales,Estrato 4,175.0,120.5,26.66,Monofásico Digital,Mora
+MED-5982,Neira,Estrato 1,290.5,122.0,25.36,Bifásico Inteligente,Al Día
+MED-5983,Neira,Estrato 1,290.5,120.5,42.46,Bifásico Inteligente,Al Día
+MED-5984,Chinchiná,Estrato 3,95.0,120.5,73.05,Monofásico Digital,Al Día
+MED-5985,Palestina,Estrato 2,95.0,120.5,40.63,Monofásico Digital,Al Día
+MED-5986,Neira,Estrato 4,130.5,128.0,44.19,Monofásico Digital,Al Día
+MED-5987,Chinchiná,Estrato 4,130.5,122.0,24.09,Monofásico Digital,Financiado
+MED-5988,Palestina,Estrato 3,480.0,120.5,71.9,Bifásico Inteligente,Al Día
+MED-5989,Palestina,Estrato 4,360.0,112.5,10.73,Monofásico Digital,Mora
+MED-5990,Villamaría,Estrato 2,220.0,118.0,44.74,Bifásico Inteligente,Al Día
+MED-5991,Palestina,Estrato 1,130.5,118.0,83.46,Trifásico Industrial,Mora
+MED-5992,Neira,Estrato 3,95.0,118.0,50.1,Bifásico Inteligente,Mora
+MED-5993,Neira,Estrato 1,95.0,120.5,41.06,Trifásico Industrial,Al Día
+MED-5994,Villamaría,Estrato 2,130.5,122.0,32.72,Bifásico Inteligente,Financiado
+MED-5995,Chinchiná,Estrato 3,130.5,,75.91,Trifásico Industrial,Al Día
+MED-5996,Villamaría,Estrato 2,175.0,120.5,15.18,Monofásico Digital,Al Día
+MED-5997,Villamaría,Estrato 2,175.0,125.5,13.07,Trifásico Industrial,Al Día
+MED-5998,Palestina,Estrato 1,130.5,125.5,42.16,Monofásico Digital,Al Día
+MED-5999,Neira,Estrato 3,175.0,120.5,60.44,Trifásico Industrial,Al Día
+MED-6000,Palestina,Comercial,,120.5,23.32,Monofásico Digital,Al Día
+MED-5081,Neira,Comercial,130.5,122.0,70.16,Monofásico Digital,Al Día
+MED-5082,Palestina,Estrato 3,175.0,118.0,80.93,Trifásico Industrial,Al Día
+MED-5083,Palestina,Comercial,290.5,120.5,19.83,Monofásico Digital,Al Día
+MED-5084,Palestina,Estrato 3,175.0,118.0,34.15,Bifásico Inteligente,Al Día
+MED-5085,Manizales,Comercial,220.0,118.0,38.27,Monofásico Digital,Mora
+MED-5086,Palestina,Estrato 1,130.5,125.5,64.18,Monofásico Digital,Mora
+MED-5087,Villamaría,Comercial,130.5,122.0,21.92,Monofásico Digital,Al Día
+MED-5088,Villamaría,Estrato 2,220.0,118.0,34.78,Trifásico Industrial,Al Día
+MED-5089,Manizales,Estrato 3,220.0,122.0,62.85,Monofásico Digital,Al Día
+MED-5090,Villamaría,Estrato 2,290.5,120.5,39.57,Bifásico Inteligente,Al Día
+MED-5091,Palestina,Estrato 3,290.5,122.0,14.73,Trifásico Industrial,Al Día
+MED-5092,Neira,Estrato 3,220.0,120.5,22.41,Trifásico Industrial,Financiado
